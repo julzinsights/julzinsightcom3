@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Julz Insight is an independet studio focused on building impactful
+      Julz Insight is an independent studio focused on building impactful
       products and providing top of the industry class service.  Make the shift
       from now to next.
     content: >-
