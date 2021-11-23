@@ -86,8 +86,9 @@ sections:
 seo:
   title: Julz Insight - Digital Studio
   description: >-
-    We are a brand and design practice. We work closely with you, your team to
-    deliver inspiring work, which enables your organization to grow.
+    Julz Insight is a digital studio focused on building impactful products and
+    providing bespoke services. Make the shift now by booking your free
+    consultation!
   extra:
     - name: 'og:type'
       value: website
