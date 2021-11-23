@@ -55,13 +55,6 @@
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/julzinsight",
-                "style": "icon",
-                "icon": "dribbble",
-                "new_window": true
-            },
-            {
                 "label": "GitHub",
                 "url": "https://www.github.com/Julz-Insight",
                 "style": "icon",
