@@ -7,7 +7,6 @@ sections:
     title: >-
       Julz Insight is an independent studio focused on building impactful
       products and providing bespoke services.  Make the shift from now to next.
-      <a href="contact">Let's talk</a>
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
