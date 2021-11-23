@@ -78,7 +78,7 @@ sections:
       Say hello at <julzinsight@gmail.com> or tell us more about your project by
       getting started below.
     actions:
-      - label: Let's talk
+      - label: "Let's talk\_→"
         url: /contact
         style: button
     image: images/cta.svg
