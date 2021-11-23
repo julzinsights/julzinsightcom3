@@ -66,7 +66,7 @@
                 "url": "https://www.facebook.com/julzinsight",
                 "style": "icon",
                 "icon": "facebook",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             }
         ]
