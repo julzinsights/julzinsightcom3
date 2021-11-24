@@ -33,7 +33,7 @@ sections:
       - title: I.C.T Equipment Supply
         image_alt: lorem-ipsum
         actions: []
-        image: images/service-3.svg
+        image: images/service-1.svg
       - title: Web Performance & Search Engine Optimization
         image_alt: lorem-ipsum
         actions: []
