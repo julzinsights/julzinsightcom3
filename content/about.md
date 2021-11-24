@@ -49,6 +49,10 @@ sections:
             icon: twitter
             new_window: true
         image_alt: Stephen Ajulu
+        content: >
+          Stephen is a one-man army with 8 years of tech experience. He is
+          knowledgeable in Web Development, Graphic Design, Web Design, Web 3.0,
+          Cryptocurrencies, I.C.T Equipment Supply and more
   - type: cta_section
     section_id: cta
     title: Become a Team Player
