@@ -52,11 +52,6 @@ sections:
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    testimonials: []
-    type: testimonials_section
 seo:
   title: About Us - Julz Insight
   description: 'Learn more about us, our story and our principles'
