@@ -18,6 +18,14 @@ sections:
     projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
+  - section_id: expertise
+    title: Expertise
+    image_alt: lorem-ipsum
+    content: >
+      Web Development, Graphic Design, Web Performance Optimization, Search
+      Engine Optimization & I.T Consultation
+    type: content_section
+    subtitle: What we are good at
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
