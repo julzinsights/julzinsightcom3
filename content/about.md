@@ -63,7 +63,7 @@ seo:
       value: About Us - Julz Insight
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: 'Learn more about us, our story and our principles'
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
