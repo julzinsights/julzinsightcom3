@@ -63,7 +63,7 @@ sections:
           - label: Instagram
             url: 'https://instagram.com/stephenajulu'
             style: icon
-            icon: linkedin
+            icon: instagram
             new_window: false
             no_follow: false
         image_alt: Stephen Ajulu
