@@ -23,9 +23,6 @@ sections:
       - title: Stephen Ajulu
         image: images/author.jpg
         subtitle: 'Founder, Director'
-        content: >-
-          Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
-          euismod nisi porta lorem mollis.
         actions:
           - label: Twitter
             url: 'https://twitter.com/'
