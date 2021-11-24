@@ -5,16 +5,16 @@ hide_title: false
 col_number: three
 seo:
   title: Journal
-  description: This is the journal page
+  description: This is our journal
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Journal
+      value: Journal - Julz Insight
       keyName: property
     - name: 'og:description'
-      value: This is the journal page
+      value: This is our journal
       keyName: property
     - name: 'og:image'
       value: images/post-1.jpg
@@ -23,9 +23,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Journal
+      value: Journal - Julz Insight
     - name: 'twitter:description'
-      value: This is the journal page
+      value: This is our journal
     - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true

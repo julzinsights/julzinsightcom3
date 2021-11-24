@@ -24,7 +24,7 @@ sections:
       3.  Creativity
 
 
-      Our desire is to see you succeed. 
+      Our desire is to see you move from now(problem) to next(success)
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
@@ -53,17 +53,17 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: About Us
-  description: This is the about us page
+  title: About Us - Julz Insight
+  description: 'Learn more about us, our story and our principles'
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: About Us - Julz Insight
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: 'Learn more about us, our story and our principles'
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
@@ -72,9 +72,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: About Us - Julz Insight
     - name: 'twitter:description'
-      value: This is the about us page
+      value: 'Learn more about us, our story and our principles'
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true

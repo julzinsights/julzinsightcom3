@@ -39,23 +39,23 @@ sections:
           can be contacted.
     submit_label: Send Message
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Contact - Julz Insight
+  description: Contact us and book your free consultation now
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contact - Julz Insight
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Contact us and book your free consultation now
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Contact - Julz Insight
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Contact us and book your free consultation now
 layout: advanced
 ---
