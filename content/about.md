@@ -57,7 +57,7 @@ sections:
           - label: Github
             url: 'https://github.com/stephenajulu'
             style: icon
-            icon: dribbble
+            icon: github
             new_window: false
             no_follow: false
         image_alt: Stephen Ajulu
