@@ -40,7 +40,7 @@ sections:
     submit_label: Send Message
 seo:
   title: Contact - Julz Insight
-  description: This is the contact page
+  description: Contact us and book your free consultation now
   extra:
     - name: 'og:type'
       value: website
