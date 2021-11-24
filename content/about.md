@@ -74,7 +74,7 @@ seo:
     - name: 'twitter:title'
       value: About Us - Julz Insight
     - name: 'twitter:description'
-      value: This is the about us page
+      value: 'Learn more about us, our story and our principles'
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
