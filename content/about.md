@@ -23,7 +23,7 @@ sections:
     grid_items:
       - title: Stephen Ajulu
         image: images/team-1.png
-        subtitle: 'Founder, I.T Professional'
+        subtitle: 'Founder, Director'
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
           euismod nisi porta lorem mollis.
