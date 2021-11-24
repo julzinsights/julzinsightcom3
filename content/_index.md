@@ -18,30 +18,6 @@ sections:
     projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
-  - type: grid_section
-    section_id: services
-    title: Services
-    subtitle: What we do
-    col_number: three
-    grid_items:
-      - title: Web Development
-        image: images/service-1.svg
-      - title: Graphic Design
-        image: images/service-2.svg
-      - title: Content Creation
-        image: images/service-3.svg
-      - title: I.C.T Equipment Supply
-        image_alt: lorem-ipsum
-        actions: []
-        image: images/service-1.svg
-      - title: Web Performance & Search Engine Optimization
-        image_alt: lorem-ipsum
-        actions: []
-        image: images/service-2.svg
-      - title: I.C.T/General Consultation
-        image_alt: lorem-ipsum
-        actions: []
-        image: images/service-3.svg
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
