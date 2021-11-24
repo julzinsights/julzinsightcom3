@@ -28,7 +28,7 @@ sections:
         image: images/service-1.svg
       - title: Graphic Design
         image: images/service-2.svg
-      - title: Experience design
+      - title: Content Creation
         image: images/service-3.svg
   - type: cta_section
     section_id: cta
