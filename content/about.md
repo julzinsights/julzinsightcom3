@@ -53,7 +53,7 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: About Us
+  title: About Us - Julz Insight
   description: 'Learn more about us, our story and our principles'
   extra:
     - name: 'og:type'
