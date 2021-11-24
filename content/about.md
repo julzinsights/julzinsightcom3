@@ -55,7 +55,7 @@ sections:
             new_window: true
             no_follow: false
           - label: Github
-            url: '#'
+            url: 'https://github.com/stephenajulu'
             style: link
             icon: dribbble
             new_window: false
