@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Portfolio - Julz Insight
     - name: 'twitter:description'
-      value: This is the portfolio page
+      value: Explore case studies. Learn more about what we do and how we do it.
     - name: 'twitter:image'
       value: images/work-book-1.jpg
       relativeUrl: true
