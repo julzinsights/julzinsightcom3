@@ -51,7 +51,7 @@ sections:
           - label: Facebook
             url: 'https://facebook.com/stephenajulu'
             style: icon
-            icon: dribbble
+            icon: facebook
             new_window: false
             no_follow: false
         image_alt: Stephen Ajulu
