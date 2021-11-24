@@ -39,7 +39,6 @@ sections:
         actions: []
         image: images/service-1.svg
       - title: I.C.T/General Consultation
-        subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
