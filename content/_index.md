@@ -20,7 +20,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     title: Services
-    subtitle: Here's what we offer
+    subtitle: Here's what we oaffer
     image_alt: lorem-ipsum
     content: >
       ### Web Development, Graphic Design, Web/Search Engine Optimization and
