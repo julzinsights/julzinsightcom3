@@ -18,7 +18,7 @@ sections:
     projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
-  - section_id: services
+  - section_id: expertise
     title: Expertise
     image_alt: lorem-ipsum
     content: >
