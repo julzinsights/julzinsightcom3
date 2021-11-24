@@ -24,7 +24,14 @@ sections:
       3.  Creativity
 
 
-      Our desire is to see you move from now(problem) to next(success)
+      Our desire is to see you move from now(problem) to next(success).
+
+
+      We believe in "Show. Don't Tell"
+
+
+      So if you'd like to learn more about us and what we do, feel free to
+      [contact us](/contact).
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
