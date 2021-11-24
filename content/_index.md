@@ -63,5 +63,9 @@ seo:
       value: images/julzinsight header.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/julzinsight header.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
