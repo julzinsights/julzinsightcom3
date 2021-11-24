@@ -45,7 +45,7 @@ sections:
           - dolor sit amet
         actions: []
         image: images/service-3.svg
-      - title: Web Perfomance and Search Engine Optimization
+      - title: Web Performance and Search Engine Optimization
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
