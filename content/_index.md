@@ -24,37 +24,24 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: Business design
+      - title: Web Development
         image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
-      - title: Brand design
+      - title: Graphic Design
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
-      - title: Experience design
+      - title: Content Creation
         image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+      - title: I.C.T Equipment Supply
+        image_alt: lorem-ipsum
+        actions: []
+        image: images/service-1.svg
+      - title: Web Performance & Search Engine Optimization
+        image_alt: lorem-ipsum
+        actions: []
+        image: images/service-2.svg
+      - title: I.C.T/General Consultation
+        image_alt: lorem-ipsum
+        actions: []
+        image: images/service-3.svg
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
