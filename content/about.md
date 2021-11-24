@@ -60,7 +60,7 @@ sections:
             icon: github
             new_window: true
             no_follow: false
-          - label: lorem-ipsum
+          - label: Instagram
             url: '#'
             style: link
             icon: dribbble
