@@ -24,7 +24,7 @@ sections:
       3.  Creativity
 
 
-      Our desire is to see you succeed. 
+      Our desire is to see you move from now(problem) to next(success)
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
