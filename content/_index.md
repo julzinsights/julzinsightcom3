@@ -59,5 +59,13 @@ seo:
         Julz Insight is a digital studio focused on building impactful products
         and providing bespoke services. Make the shift now by booking your free
         consultation!
+    - name: 'og:image'
+      value: images/julzinsight header.png
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:image'
+      value: images/julzinsight header.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
