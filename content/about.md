@@ -54,7 +54,7 @@ sections:
             icon: facebook
             new_window: true
             no_follow: false
-          - label: lorem-ipsum
+          - label: Github
             url: '#'
             style: link
             icon: dribbble
