@@ -49,7 +49,7 @@ sections:
             icon: twitter
             new_window: true
           - label: Facebook
-            url: 'https://facebook.com/ste'
+            url: 'https://facebook.com/stephenajulu'
             style: link
             icon: dribbble
             new_window: false
