@@ -48,16 +48,16 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-          - label: Facebook
-            url: 'https://facebook.com/stephenajulu'
-            style: icon
-            icon: facebook
-            new_window: true
-            no_follow: false
           - label: Github
             url: 'https://github.com/stephenajulu'
             style: icon
             icon: github
+            new_window: true
+            no_follow: false
+          - label: Instagram
+            url: 'https://instagram.com/stephenajulu'
+            style: icon
+            icon: instagram
             new_window: true
             no_follow: false
         image_alt: Stephen Ajulu
