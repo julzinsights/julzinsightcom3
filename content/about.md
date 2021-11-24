@@ -54,7 +54,7 @@ sections:
     bg_color: light
 seo:
   title: About Us
-  description: This is the about us page
+  description: 'Learn more about us, our story and our principles'
   extra:
     - name: 'og:type'
       value: website
