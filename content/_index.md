@@ -37,7 +37,7 @@ sections:
       - title: Web Performance & Search Engine Optimization
         image_alt: lorem-ipsum
         actions: []
-        image: images/service-1.svg
+        image: images/service-2.svg
       - title: I.C.T/General Consultation
         image_alt: lorem-ipsum
         actions: []
