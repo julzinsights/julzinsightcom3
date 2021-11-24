@@ -60,7 +60,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: About Us - Julz Insight
       keyName: property
     - name: 'og:description'
       value: This is the about us page
