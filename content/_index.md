@@ -18,19 +18,6 @@ sections:
     projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
-  - type: cta_section
-    section_id: cta
-    title: Let’s Work Together!
-    content: >
-      Say hello at <julzinsight@gmail.com> or tell us more about your project by
-      getting started below.
-    actions:
-      - label: "Let's talk\_→"
-        url: /contact
-        style: button
-    image: images/cta.svg
-    image_alt: Illustration
-    bg_color: light
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
@@ -47,6 +34,19 @@ sections:
 
       - dolor sit amet
     type: content_section
+  - type: cta_section
+    section_id: cta
+    title: Let’s Work Together!
+    content: >
+      Say hello at <julzinsight@gmail.com> or tell us more about your project by
+      getting started below.
+    actions:
+      - label: "Let's talk\_→"
+        url: /contact
+        style: button
+    image: images/cta.svg
+    image_alt: Illustration
+    bg_color: light
 seo:
   title: Julz Insight - Digital Studio
   description: >-
