@@ -22,17 +22,9 @@ sections:
     title: Services
     subtitle: Here's what we offer
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      ### Web Development, Graphic Design, Web/Search Engine Optimization and
+      IT/General Consultation
     type: content_section
   - type: cta_section
     section_id: cta
