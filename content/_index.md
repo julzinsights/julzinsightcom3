@@ -18,7 +18,7 @@ sections:
     projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
-  - section_id: lorem-ipsum
+  - section_id: services
     title: Services
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
