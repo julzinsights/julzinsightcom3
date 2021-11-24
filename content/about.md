@@ -3,16 +3,26 @@ title: Our Story
 hide_title: false
 sections:
   - type: content_section
-    content: >
-      Welcome to Julz Insight. We focus on solving problems using our perfected
-      techniques and strategies. After years of research, we are finally ready. 
-
-
-      From the days of Geeky Technologies to Julz Insight, it's been 8 years of
-      learning and optimization.
+    content: >+
+      We focus on solving problems using our perfected techniques and strategies
+      through years of research. From the days of Geeky Technologies to Julz
+      Insight, it's been 8 years of learning and optimization.
 
 
       But now it's time. Time to make the shift from now to next.
+
+
+      Introducing Julz Insight, a digital studio founded on the principles
+
+
+      1.  Innovation
+
+
+      2.  Humility
+
+
+      3.  Creativity
+
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
