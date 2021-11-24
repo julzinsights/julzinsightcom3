@@ -48,12 +48,6 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-          - label: Facebook
-            url: 'https://facebook.com/stephenajulu'
-            style: icon
-            icon: facebook
-            new_window: true
-            no_follow: false
           - label: Github
             url: 'https://github.com/stephenajulu'
             style: icon
