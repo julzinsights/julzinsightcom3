@@ -26,7 +26,7 @@ sections:
     grid_items:
       - title: Web Development
         image: images/service-1.svg
-      - title: Brand design
+      - title: Graphic Design
         image: images/service-2.svg
         content: |-
           - Brand development
