@@ -3,15 +3,16 @@ title: Our Story
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
+    content: >
+      Welcome to Julz Insight. We focus on solving problems using our perfected
+      techniques and strategies. After years of research, we are finally ready. 
 
 
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+      From the days of Geeky Technologies to Julz Insight, it's been 8 years of
+      learning and optimization.
+
+
+      But now it's time. Time to make the shift from now to next.
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
