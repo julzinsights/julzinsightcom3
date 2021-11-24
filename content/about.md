@@ -23,7 +23,7 @@ sections:
     grid_items:
       - title: Stephen Ajulu
         image: images/team-1.png
-        subtitle: 'Co-Founder, Creative Director'
+        subtitle: 'Founder, Creative Director'
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
           euismod nisi porta lorem mollis.
