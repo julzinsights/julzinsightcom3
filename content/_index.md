@@ -30,7 +30,7 @@ sections:
         image: images/service-2.svg
       - title: Content Creation
         image: images/service-3.svg
-      - title: lorem-ipsum
+      - title: I.C.T Supply
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
