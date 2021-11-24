@@ -50,7 +50,7 @@ sections:
             new_window: true
           - label: Facebook
             url: 'https://facebook.com/stephenajulu'
-            style: link
+            style: icon
             icon: dribbble
             new_window: false
             no_follow: false
