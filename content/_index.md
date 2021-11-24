@@ -22,13 +22,19 @@ sections:
     title: Services
     image_alt: lorem-ipsum
     content: |
-      ### Web Development
+      *   Web Development
 
-      ### Graphic Design
+      <!---->
 
-      ### Web/Search Engine Optimization
+      *   Graphic Design
 
-      ### IT/General Consultation
+      <!---->
+
+      *   Web Performance & Search Engine Optimization
+
+      <!---->
+
+      *   IT & General Consultation
     type: content_section
   - type: cta_section
     section_id: cta
