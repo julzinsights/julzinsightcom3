@@ -49,7 +49,7 @@ sections:
             icon: twitter
             new_window: true
           - label: Facebook
-            url: '#'
+            url: 'https://facebook.com/ste'
             style: link
             icon: dribbble
             new_window: false
