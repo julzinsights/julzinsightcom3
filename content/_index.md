@@ -9,7 +9,8 @@ sections:
       products and providing bespoke services.
     content: >
       Make the shift from now to next by [booking your free
-      consultation](/contact/).
+      consultation](/contact/). We do web development, graphic design, web
+      performance optimization, search engine optimization & I.T consultation
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
