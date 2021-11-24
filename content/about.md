@@ -21,7 +21,7 @@ sections:
     subtitle: An optional subtitle of the section
     col_number: three
     grid_items:
-      - title: Gustav Purpleson
+      - title: Stephen Ajulu
         image: images/team-1.png
         subtitle: 'Co-Founder, Creative Director'
         content: >-
