@@ -19,7 +19,7 @@ sections:
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
-    title: Services
+    title: Expertise
     image_alt: lorem-ipsum
     content: >
       ##### Web Development, Graphic Design, Web Performance Optimization,
