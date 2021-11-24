@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: Journal - Julz Insight
     - name: 'twitter:description'
-      value: This is the journal page
+      value: This is our journal
     - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true
