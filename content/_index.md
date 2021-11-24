@@ -46,7 +46,6 @@ sections:
         actions: []
         image: images/service-3.svg
       - title: Web Performance & Search Engine Optimization
-        subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
