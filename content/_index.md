@@ -41,7 +41,7 @@ sections:
       - title: I.C.T/General Consultation
         image_alt: lorem-ipsum
         actions: []
-        image: images/service-2.svg
+        image: images/service-3.svg
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
