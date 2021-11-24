@@ -13,7 +13,7 @@ seo:
       value: Portfolio - Julz Insight
       keyName: property
     - name: 'og:description'
-      value: Explore case studies and learn more about what we do
+      value: Explore case studies. Learn more about what we do and how we do it.
       keyName: property
     - name: 'og:image'
       value: images/work-book-1.jpg
