@@ -59,6 +59,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: images/service-1.svg
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
