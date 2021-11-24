@@ -28,14 +28,6 @@ sections:
         image: images/service-1.svg
       - title: Graphic Design
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
       - title: Experience design
         image: images/service-3.svg
         content: |-
