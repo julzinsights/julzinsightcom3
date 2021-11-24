@@ -48,7 +48,7 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-          - label: lorem-ipsum
+          - label: Facebook
             url: '#'
             style: link
             icon: dribbble
