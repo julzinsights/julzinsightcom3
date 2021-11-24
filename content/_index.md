@@ -22,8 +22,8 @@ sections:
     title: Expertise
     image_alt: lorem-ipsum
     content: >
-      ##### Web Development, Graphic Design, Web Performance Optimization,
-      Search Engine Optimization & I.T Consultation
+      Web Development, Graphic Design, Web Performance Optimization, Search
+      Engine Optimization & I.T Consultation
     type: content_section
   - type: cta_section
     section_id: cta
