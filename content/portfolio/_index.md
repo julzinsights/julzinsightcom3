@@ -4,7 +4,7 @@ subtitle: Explore case studies
 layout_style: mosaic
 seo:
   title: Portfolio - Julz Insight
-  description: Explore case studies and learn more about what we do.
+  description: Explore case studies. Learn more about what we do and how we do it.
   extra:
     - name: 'og:type'
       value: website
