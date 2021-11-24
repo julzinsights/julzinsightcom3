@@ -12,7 +12,11 @@ sections:
       But now it's time. Time to make the shift from now to next.
 
 
-      Introducing Julz Insight, a digital studio founded on the principles
+      Introducing Julz Insight, a digital studio focused on solving problems by
+      building impactful products and providing bespoke services.
+
+
+      We believe in the following principles
 
 
       1.  Innovation
@@ -25,9 +29,6 @@ sections:
 
 
       Our desire is to see you move from now(problem) to next(success).
-
-
-      We believe in "Show. Don't Tell"
 
 
       So if you'd like to learn more about us and what we do, feel free to
