@@ -31,7 +31,6 @@ sections:
       - title: Content Creation
         image: images/service-3.svg
       - title: I.C.T Equipment Supply
-        subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
