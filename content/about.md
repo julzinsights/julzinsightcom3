@@ -48,6 +48,12 @@ sections:
             style: icon
             icon: twitter
             new_window: true
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
         image_alt: Stephen Ajulu
         content: >
           Stephen is a one-man army with 8 years of tech experience. He is
