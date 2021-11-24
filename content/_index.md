@@ -20,7 +20,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     title: Services
-    subtitle: lorem-ipsum
+    subtitle: Here's what we offer
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
