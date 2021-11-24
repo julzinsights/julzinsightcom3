@@ -25,7 +25,7 @@ sections:
         subtitle: 'Founder, Director'
         actions:
           - label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://twitter.com/stephenajulu'
             style: icon
             icon: twitter
             new_window: true
