@@ -30,6 +30,21 @@ sections:
         image: images/service-2.svg
       - title: Content Creation
         image: images/service-3.svg
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
