@@ -3,101 +3,52 @@ title: Our Story
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
+    content: >
+      We focus on solving problems using our perfected techniques and strategies
+      through years of research. From the days of Geeky Technologies to now,
+      it's been 8 years of learning and optimization.
 
 
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
-    image: images/about.jpg
+      But now it's time. Time to make the shift from now to next.
+
+
+      Introducing Julz Insight, a digital studio founded on the principles
+
+
+      1.  Innovation
+
+
+      2.  Humility
+
+
+      3.  Creativity
+
+
+      Our desire is to see you succeed. 
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
     title: The Team
-    subtitle: An optional subtitle of the section
     col_number: three
     grid_items:
-      - title: Gustav Purpleson
-        image: images/team-1.png
-        subtitle: 'Co-Founder, Creative Director'
-        content: >-
-          Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
-          euismod nisi porta lorem mollis.
+      - title: Stephen Ajulu
+        image: images/author.jpg
+        subtitle: 'Founder, Director'
         actions:
           - label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://twitter.com/stephenajulu'
             style: icon
             icon: twitter
             new_window: true
-      - title: Hilary Ouse
-        image: images/team-2.png
-        subtitle: 'Co-Founder, Creative Director'
-        content: >-
-          Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
-          aliquet nec ullamcorper sit.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-      - title: Gordon Norman
-        image: images/team-3.png
-        subtitle: Creative Producer
-        content: >-
-          Interdum velit euismod in pellentesque massa placerat duis ultricies
-          lacus.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
-      - title: Parsley Montana
-        image: images/team-4.png
-        subtitle: 'Senior Designer, Motion Graphics'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
-      - title: Brandon Guidelines
-        image: images/team-5.png
-        subtitle: Graphic Designer
-        content: >-
-          Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
-          eget.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
+        image_alt: Stephen Ajulu
   - type: cta_section
     section_id: cta
     title: Become a Team Player
-    content: >-
+    content: >
       We are always looking for great people to join our team. If you are
-      interested in working for Agency, please send an email to
-      [email@example.com](mailto:email@example.com) with your CV and which
-      position you are interested in.
+      interested in working for Julz, please send an email to
+      <julzinsight@gmail.com> with your CV and which position you are interested
+      in.
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
