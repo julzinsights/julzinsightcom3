@@ -21,7 +21,7 @@ sections:
     col_number: three
     grid_items:
       - title: Stephen Ajulu
-        image: images/team-1.png
+        image: images/2.png
         subtitle: 'Founder, Director'
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
