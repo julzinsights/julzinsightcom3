@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Journal
+      value: Journal - Julz Insight
       keyName: property
     - name: 'og:description'
       value: This is the journal page
