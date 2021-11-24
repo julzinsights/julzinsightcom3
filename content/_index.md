@@ -25,6 +25,7 @@ sections:
       Web Development, Graphic Design, Web Performance Optimization, Search
       Engine Optimization & I.T Consultation
     type: content_section
+    subtitle: What we are good at
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
