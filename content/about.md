@@ -25,7 +25,6 @@ sections:
 
 
       Our desire is to see you succeed. 
-    image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
