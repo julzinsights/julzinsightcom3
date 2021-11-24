@@ -52,7 +52,7 @@ sections:
             url: 'https://facebook.com/stephenajulu'
             style: icon
             icon: facebook
-            new_window: false
+            new_window: true
             no_follow: false
         image_alt: Stephen Ajulu
         content: >
