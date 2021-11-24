@@ -3,7 +3,7 @@ title: Portfolio
 subtitle: Explore case studies
 layout_style: mosaic
 seo:
-  title: Portfolio
+  title: Portfolio - Julz Insight
   description: This is the portfolio page
   extra:
     - name: 'og:type'
