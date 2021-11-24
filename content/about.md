@@ -62,7 +62,7 @@ sections:
             no_follow: false
           - label: Instagram
             url: 'https://instagram.com/stephenajulu'
-            style: link
+            style: icon
             icon: dribbble
             new_window: false
             no_follow: false
