@@ -38,7 +38,7 @@ sections:
     title: Our Brands
     col_number: three
     grid_items:
-      - subtitle: Digital Magazine/Blog
+      - subtitle: Digital Magazine(Coming Soon)
         image_alt: lorem-ipsum
         actions: []
         image: images/Asset 1the noesis magazine new logo.png
