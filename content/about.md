@@ -61,6 +61,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: images/undraw_innovative_b409.svg
     type: grid_section
   - type: grid_section
     section_id: team
