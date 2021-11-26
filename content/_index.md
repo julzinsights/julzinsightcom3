@@ -8,20 +8,7 @@ sections:
       Julz Insight is an independent studio focused on building impactful
       products, innovating solutions and providing bespoke services.
     content: |
-      Make the shift from now to next by connecting with us below.
-  - type: cta_section
-    section_id: cta
-    title: Let’s Work Together!
-    content: >
-      Say hello at <julzinsight@gmail.com> or tell us more about your project by
-      getting started below.
-    actions:
-      - label: "Let's talk\_→"
-        url: /contact
-        style: button
-    image: images/cta.svg
-    image_alt: Illustration
-    bg_color: light
+      Make the shift from now to next by [contacting us](/contact).
 seo:
   title: Julz Insight - Digital Studio
   description: >-
