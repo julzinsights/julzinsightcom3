@@ -36,7 +36,6 @@ sections:
     image_alt: Our team in the meeting room
   - section_id: services
     title: Services
-    subtitle: What we do
     col_number: three
     grid_items:
       - title: Web Development
