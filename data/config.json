@@ -5,8 +5,7 @@
     "base_font": "fraunces",
     "header": {
         "title": "Julz Insight",
-        "logo": "images/New Julz Insight Logo Black Text Transparent.png",
-        "logo_alt": "Julz Insight Logo",
+        "logo_alt": "Julz Insight Logo Digital Studio",
         "has_nav": true,
         "nav_links": [
             {
@@ -34,7 +33,8 @@
                 "url": "/contact/",
                 "style": "button"
             }
-        ]
+        ],
+        "logo": "images/New Julz Insight Logo Black Text 8700aa Circle Text Transparent.png"
     },
     "footer": {
         "content": "&copy; Julz Insight. All rights reserved.",
