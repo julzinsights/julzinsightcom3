@@ -34,6 +34,23 @@ sections:
       So if you'd like to learn more about us and what we do, feel free to
       [contact us](/contact).
     image_alt: Our team in the meeting room
+  - section_id: services
+    title: Our Services
+    col_number: three
+    grid_items:
+      - title: Web Development
+        image_alt: lorem-ipsum
+        actions: []
+        image: images/undraw_web_development_0l6v.svg
+      - title: Content Creation
+        image_alt: lorem-ipsum
+        actions: []
+        image: images/undraw_content_re_33px.svg
+      - title: Graphic Design
+        image_alt: lorem-ipsum
+        actions: []
+        image: images/undraw_innovative_b409.svg
+    type: grid_section
   - type: grid_section
     section_id: team
     title: The Team
