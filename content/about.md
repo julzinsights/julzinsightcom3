@@ -82,6 +82,15 @@ sections:
           Stephen is a one-man army with 8 years of tech experience. He is
           knowledgeable in Web Development, Graphic Design, Web Design, Web 3.0,
           Cryptocurrencies, I.C.T Equipment Maintenance, Solidity, and more
+  - section_id: lorem-ipsum
+    title: Our Brands & Products
+    col_number: three
+    grid_items:
+      - subtitle: Digital Magazine/Blog
+        image_alt: lorem-ipsum
+        actions: []
+        image: images/Asset 1the noesis magazine new logo.png
+    type: grid_section
   - type: cta_section
     section_id: cta
     title: Become a Team Player
@@ -93,15 +102,6 @@ sections:
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
-    title: Our Brands & Products
-    col_number: three
-    grid_items:
-      - subtitle: Digital Magazine/Blog
-        image_alt: lorem-ipsum
-        actions: []
-        image: images/Asset 1the noesis magazine new logo.png
-    type: grid_section
 seo:
   title: About Us - Julz Insight
   description: 'Learn more about us, our story and our principles'
