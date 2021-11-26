@@ -65,23 +65,6 @@ sections:
           Stephen is a one-man army with 8 years of tech experience. He is
           knowledgeable in Web Development, Graphic Design, Web Design, Web 3.0,
           Cryptocurrencies, I.C.T Equipment Maintenance, Solidity, and more
-  - section_id: services
-    title: Our Services
-    col_number: three
-    grid_items:
-      - title: Web Development
-        image_alt: lorem-ipsum
-        actions: []
-        image: images/undraw_web_development_0l6v.svg
-      - title: Content Creation
-        image_alt: lorem-ipsum
-        actions: []
-        image: images/undraw_content_re_33px.svg
-      - title: Graphic Design
-        image_alt: lorem-ipsum
-        actions: []
-        image: images/undraw_innovative_b409.svg
-    type: grid_section
   - section_id: lorem-ipsum
     title: Our Brands & Products
     col_number: three
