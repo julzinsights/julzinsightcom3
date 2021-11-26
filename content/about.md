@@ -94,7 +94,7 @@ sections:
     image_alt: Illustration
     bg_color: light
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Our Brands & Products
     subtitle: lorem-ipsum
     col_number: three
     grid_items: []
