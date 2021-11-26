@@ -66,7 +66,7 @@ sections:
           knowledgeable in Web Development, Graphic Design, Web Design, Web 3.0,
           Cryptocurrencies, I.C.T Equipment Maintenance, Solidity, and more
   - section_id: lorem-ipsum
-    title: Our Brands & Products
+    title: Our Brands
     col_number: three
     grid_items:
       - subtitle: Digital Magazine/Blog
