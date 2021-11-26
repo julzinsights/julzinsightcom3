@@ -35,7 +35,7 @@ sections:
       [contact us](/contact).
     image_alt: Our team in the meeting room
   - section_id: services
-    title: lorem-ipsum
+    title: Services
     subtitle: lorem-ipsum
     col_number: three
     grid_items: []
