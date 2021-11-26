@@ -97,7 +97,7 @@ sections:
     title: Our Brands & Products
     col_number: three
     grid_items:
-      - subtitle: lorem-ipsum
+      - subtitle: Digital Magazine/Blog
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
