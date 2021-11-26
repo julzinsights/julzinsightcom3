@@ -41,17 +41,6 @@ sections:
     grid_items:
       - title: Web Development
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image: images/undraw_web_development_0l6v.svg
     type: grid_section
