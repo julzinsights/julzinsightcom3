@@ -53,6 +53,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: images/undraw_web_development_0l6v.svg
     type: grid_section
   - type: grid_section
     section_id: team
