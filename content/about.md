@@ -35,7 +35,7 @@ sections:
       [contact us](/contact).
     image_alt: Our team in the meeting room
   - section_id: services
-    title: Services
+    title: Our Services
     col_number: three
     grid_items:
       - title: Web Development
