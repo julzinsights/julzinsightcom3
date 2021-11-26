@@ -6,18 +6,9 @@ sections:
     section_id: hero
     title: >-
       Julz Insight is an independent studio focused on building impactful
-      products and providing bespoke services.
-    content: >
-      Make the shift from now to next by [booking your free
-      consultation](/contact/).
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: mosaic
-    title: Recent Work
-    subtitle: Explore case studies
-    projects_number: 4
-    view_all_label: View All
-    view_all_url: portfolio
+      products, innovating and providing bespoke services.
+    content: |
+      Make the shift from now to next by connecting with us below.
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
