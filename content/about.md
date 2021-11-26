@@ -100,6 +100,7 @@ sections:
       - subtitle: Digital Magazine/Blog
         image_alt: lorem-ipsum
         actions: []
+        image: images/Asset 1the noesis magazine new logo.png
     type: grid_section
 seo:
   title: About Us - Julz Insight
