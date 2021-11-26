@@ -34,7 +34,7 @@ sections:
       So if you'd like to learn more about us and what we do, feel free to
       [contact us](/contact).
     image_alt: Our team in the meeting room
-  - section_id: lorem-ipsum
+  - section_id: services
     title: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
