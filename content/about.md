@@ -49,17 +49,6 @@ sections:
         image: images/undraw_content_re_33px.svg
       - title: Graphic Design
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image: images/undraw_innovative_b409.svg
     type: grid_section
