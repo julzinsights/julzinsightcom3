@@ -47,7 +47,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         image: images/undraw_content_re_33px.svg
-      - title: lorem-ipsum
+      - title: Graphic Design
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
