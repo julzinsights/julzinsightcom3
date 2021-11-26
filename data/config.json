@@ -33,7 +33,8 @@
                 "url": "/contact/",
                 "style": "button"
             }
-        ]
+        ],
+        "logo": "images/Test Julz Insight Full Logo Black Text Transparent-47ea4a70.png"
     },
     "footer": {
         "content": "&copy; Julz Insight. All rights reserved.",
