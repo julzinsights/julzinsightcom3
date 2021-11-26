@@ -40,7 +40,6 @@ sections:
     col_number: three
     grid_items:
       - title: Web Development
-        subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
