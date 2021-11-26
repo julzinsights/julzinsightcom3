@@ -37,7 +37,7 @@ sections:
   - section_id: services
     title: Services
     subtitle: What we do
-    col_number: two
+    col_number: three
     grid_items:
       - title: Web Development
         image_alt: lorem-ipsum
