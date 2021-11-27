@@ -42,7 +42,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         image: images/Asset 1the noesis magazine new logo.png
-      - subtitle: lorem-ipsum
+      - subtitle: Digital Medical History(Coming Soon)
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
