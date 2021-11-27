@@ -36,7 +36,7 @@ sections:
     image_alt: Our team in the meeting room
   - section_id: lorem-ipsum
     title: Our Brands
-    col_number: three
+    col_number: two
     grid_items:
       - subtitle: Digital Magazine(Coming Soon)
         image_alt: lorem-ipsum
