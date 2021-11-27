@@ -35,13 +35,17 @@ sections:
       [contact us](/contact).
     image_alt: Our team in the meeting room
   - section_id: lorem-ipsum
-    title: Our Brands
-    col_number: three
+    title: Our Products
+    col_number: two
     grid_items:
       - subtitle: Digital Magazine(Coming Soon)
         image_alt: lorem-ipsum
         actions: []
         image: images/Asset 1the noesis magazine new logo.png
+      - subtitle: Digital Medical History(Coming Soon)
+        image_alt: lorem-ipsum
+        actions: []
+        image: images/Logo2.svg
     type: grid_section
   - type: grid_section
     section_id: team
