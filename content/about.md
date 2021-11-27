@@ -44,17 +44,6 @@ sections:
         image: images/Asset 1the noesis magazine new logo.png
       - subtitle: Digital Medical History(Coming Soon)
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image: images/Logo2.svg
     type: grid_section
