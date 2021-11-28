@@ -38,7 +38,6 @@ sections:
     section_id: story
   - section_id: services
     title: Services
-    subtitle: What we do
     col_number: three
     grid_items:
       - title: Web Design & Development
