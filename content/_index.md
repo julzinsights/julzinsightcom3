@@ -9,6 +9,13 @@ sections:
       products, innovation and providing bespoke solutions.
     content: |
       Make the shift from now to next by [contacting us](/contact).
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
 seo:
   title: Julz Insight - Digital Studio
   description: >-
