@@ -10,7 +10,7 @@ sections:
     content: |
       Make the shift from now to next by [contacting us](/contact).
     actions:
-      - label: lorem-ipsum
+      - label: Consult!
         url: '#'
         style: link
         icon: dribbble
