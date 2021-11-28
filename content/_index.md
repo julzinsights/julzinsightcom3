@@ -14,7 +14,7 @@ sections:
         icon: dribbble
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: Learn More
         url: '#'
         style: link
         icon: dribbble
