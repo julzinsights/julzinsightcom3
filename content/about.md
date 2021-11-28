@@ -90,7 +90,7 @@ sections:
     image_alt: Illustration
     bg_color: light
   - section_id: services
-    title: lorem-ipsum
+    title: Services
     subtitle: lorem-ipsum
     col_number: three
     grid_items: []
