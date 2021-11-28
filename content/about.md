@@ -97,7 +97,7 @@ sections:
     grid_items:
       - title: Web Design & Development
         actions: []
-      - title: lorem-ipsum
+      - title: Graphic Design
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
