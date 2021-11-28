@@ -40,7 +40,7 @@ sections:
     title: Services
     col_number: three
     grid_items:
-      - title: Web Design & Development
+      - title: Web Development
         actions: []
       - title: Graphic Design
         image_alt: lorem-ipsum
