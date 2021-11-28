@@ -5,8 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are an independent studio focused on building impactful products,
-      innovation and providing bespoke solutions.
+      We are an independent studio focused on creating cutting-edge
+      solutions,,building impactful products, innovation and providing bespoke
+      solutions.
     actions:
       - label: Get Started!
         url: /contact
