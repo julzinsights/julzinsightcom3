@@ -58,38 +58,6 @@ sections:
         image_alt: lorem-ipsum
         actions: []
     type: grid_section
-  - type: grid_section
-    section_id: team
-    title: The Team
-    col_number: three
-    grid_items:
-      - title: Stephen Ajulu
-        image: images/author.jpg
-        subtitle: Founder & Creative Director
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/stephenajulu'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Github
-            url: 'https://github.com/stephenajulu'
-            style: icon
-            icon: github
-            new_window: true
-            no_follow: false
-          - label: Instagram
-            url: 'https://instagram.com/stephenajulu'
-            style: icon
-            icon: instagram
-            new_window: true
-            no_follow: false
-        image_alt: Stephen Ajulu
-        content: >
-          Hi, I'm Stephen, the founder of Julz Insight. I have 8 years of tech
-          experience and I'm knowledgeable in Web Development, Graphic/Web
-          Design, Content Creation, Marketing, SEO, and more. You can call me
-          Julz Insight's "one-man army".
   - type: cta_section
     section_id: cta
     title: Become a Team Player
