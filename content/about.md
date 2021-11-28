@@ -30,8 +30,8 @@ sections:
       3.  We are adaptable
 
 
-      So if you'd like to learn more about us, request a quote, or make the
-      shift by booking a free consultation, [contact us](/contact).
+      So if you'd like to learn more, request a quote, or book a free
+      consultation, [contact us](/contact).
     image_alt: Our team in the meeting room
     section_id: story
   - section_id: services
