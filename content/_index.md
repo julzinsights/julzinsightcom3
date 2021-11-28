@@ -16,7 +16,7 @@ sections:
         no_follow: false
       - label: Learn More
         url: /about
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
