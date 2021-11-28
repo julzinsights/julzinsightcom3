@@ -67,7 +67,7 @@ sections:
           Cryptocurrencies, I.C.T Equipment Maintenance, Solidity, and more
   - section_id: lorem-ipsum
     title: Our Products
-    col_number: two
+    col_number: three
     grid_items:
       - subtitle: Digital Magazine(Coming Soon)
         image_alt: lorem-ipsum
