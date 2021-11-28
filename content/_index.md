@@ -5,8 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Julz Insight is an independent studio focused on building impactful
-      products, innovation and providing bespoke solutions.
+      We are an independent studio focused on creating cutting-edge solutions,
+      building impactful products, and providing bespoke services.
     actions:
       - label: Get Started!
         url: /contact
@@ -15,7 +15,7 @@ sections:
         new_window: false
         no_follow: false
     content: |
-      Make the shift from now to next
+      Make the shift from now to next↴
 seo:
   title: Julz Insight - Digital Studio
   description: >-
