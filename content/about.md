@@ -89,7 +89,7 @@ sections:
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
+  - section_id: services
     title: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
