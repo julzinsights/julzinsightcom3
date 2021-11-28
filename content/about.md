@@ -78,9 +78,9 @@ sections:
         image_alt: Stephen Ajulu
         content: >
           Hi, I'm Stephen, the founder of Julz Insight. I have 8 years of tech
-          experience and I'm knowledgeable in Web Development, Graphic Design,
-          UI/UX Design, Content Creation, I.C.T Equipment Maintenance,
-          Marketing, and more. You can call me Julz Insight's "one-man army".
+          experience and I'm knowledgeable in Web Development, Graphic/Web
+          Design, Content Creation, Marketing, SEO, and more. You can call me
+          Julz Insight's "one-man army".
   - type: cta_section
     section_id: cta
     title: Become a Team Player
