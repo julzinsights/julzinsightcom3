@@ -9,18 +9,15 @@ sections:
       years of metamorphosis, learning, and optimization.
 
 
-      But now it's time. Time to:
-
-
-      > Make the shift from now to next.
+      But now it's time to make the shift from now to next.
 
 
       Introducing **Julz Insight**, a digital studio focused on building
-      impactful products, providing bespoke services, and innovating
-      cutting-edge solutions.
+      impactful products, providing bespoke services, and creating cutting-edge
+      solutions.
 
 
-      Our principles: 
+      Our principles:
 
 
       1.  Innovation
@@ -30,10 +27,6 @@ sections:
 
 
       3.  Permanence
-
-
-      Our desire is to see you move from now(the challenge) to next(your
-      success).
 
 
       So if you'd like to learn more about us and what we do, feel free to
