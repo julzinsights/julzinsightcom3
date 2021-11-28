@@ -34,19 +34,6 @@ sections:
       So if you'd like to learn more about us and what we do, feel free to
       [contact us](/contact).
     image_alt: Our team in the meeting room
-  - section_id: lorem-ipsum
-    title: Our Products
-    col_number: two
-    grid_items:
-      - subtitle: Digital Magazine(Coming Soon)
-        image_alt: lorem-ipsum
-        actions: []
-        image: images/Asset 1the noesis magazine new logo.png
-      - subtitle: Digital Medical History(Coming Soon)
-        image_alt: lorem-ipsum
-        actions: []
-        image: images/Logo2.svg
-    type: grid_section
   - type: grid_section
     section_id: team
     title: The Team
@@ -78,6 +65,19 @@ sections:
           Stephen is a one-man army with 8 years of tech experience. He is
           knowledgeable in Web Development, Graphic Design, Web Design, Web 3.0,
           Cryptocurrencies, I.C.T Equipment Maintenance, Solidity, and more
+  - section_id: lorem-ipsum
+    title: Our Products
+    col_number: two
+    grid_items:
+      - subtitle: Digital Magazine(Coming Soon)
+        image_alt: lorem-ipsum
+        actions: []
+        image: images/Asset 1the noesis magazine new logo.png
+      - subtitle: Digital Medical History(Coming Soon)
+        image_alt: lorem-ipsum
+        actions: []
+        image: images/Logo2.svg
+    type: grid_section
   - type: cta_section
     section_id: cta
     title: Become a Team Player
