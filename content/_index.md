@@ -10,7 +10,7 @@ sections:
     content: |
       Make the shift from now to next by [contacting us](/contact).
     actions:
-      - label: Consult!
+      - label: Consult & learn more!
         url: /contact
         style: button
         icon: dribbble
