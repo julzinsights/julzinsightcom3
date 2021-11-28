@@ -15,7 +15,7 @@ sections:
         new_window: false
         no_follow: false
     content: |
-      Make the shift from now to next
+      Make the shift from now to next↴
 seo:
   title: Julz Insight - Digital Studio
   description: >-
