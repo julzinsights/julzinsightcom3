@@ -95,7 +95,7 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: WEB
+      - title: Web Design & Development
         actions: []
     type: grid_section
 seo:
