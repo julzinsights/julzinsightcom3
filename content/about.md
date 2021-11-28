@@ -91,7 +91,7 @@ sections:
     bg_color: light
   - section_id: services
     title: Services
-    subtitle: lorem-ipsum
+    subtitle: What we do
     col_number: three
     grid_items: []
     type: grid_section
