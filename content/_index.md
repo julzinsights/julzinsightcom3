@@ -8,7 +8,7 @@ sections:
       Julz Insight is an independent studio focused on building impactful
       products, innovation and providing bespoke solutions.
     actions:
-      - label: Consult & learn more!
+      - label: Consult!
         url: /contact
         style: button
         icon: dribbble
