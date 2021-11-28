@@ -17,19 +17,22 @@ sections:
       solutions.
 
 
-      Our principles:
+      Why choose us? Choose us because;
 
 
-      1.  Innovation
+      1.  We are innovative
 
 
-      2.  Creativity
+      2.  We are kind
 
 
-      3.  Permanence
+      3.  We are adaptable
 
 
-      So if you'd like to learn more about us and what we do, feel free to
+      4.  We are honest
+
+
+      So if you'd like to learn more about us and make that shift, feel free to
       [contact us](/contact).
     image_alt: Our team in the meeting room
   - type: grid_section
