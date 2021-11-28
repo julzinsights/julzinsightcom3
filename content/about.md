@@ -4,17 +4,18 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      We focus on creating solutions using our well-researched and time-tested
-      strategies. From the days of Geeky Technologies(2016) to now, it's been 8
-      years of metamorphosis, constant learning, and optimization.
+      From the days of Geeky Technologies(2015) to now, it's been 7 years of
+      constant learning, metamorphosis, and optimization.
 
 
       But now it's time, time to make the shift from now to next.
 
 
-      Introducing **Julz Insight**, a digital studio focused on building
-      impactful products, providing bespoke services, and creating cutting-edge
-      solutions.
+      Introducing **Julz Insight**, a small tight-knit digital studio focused on
+      building impactful products, providing bespoke services, and creating
+      cutting-edge solutions. We are dedicated to ensuring your company/startup
+      runs smoothly without having to worry about websites and branding as we
+      offer comprehensive multidisciplinary services that fit your needs.
 
 
       Why choose us?
@@ -32,7 +33,7 @@ sections:
       4.  We are honest
 
 
-      So if you'd like to learn more about us and make that shift, feel free to
+      So if you'd like to learn more about us and make the shift, feel free to
       [contact us](/contact).
     image_alt: Our team in the meeting room
     section_id: story
