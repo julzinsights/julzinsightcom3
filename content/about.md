@@ -24,17 +24,14 @@ sections:
       1.  We are innovative
 
 
-      2.  We are kind
+      2.  We are capable
 
 
       3.  We are adaptable
 
 
-      4.  We are honest
-
-
-      So if you'd like to learn more about us and make the shift, feel free to
-      [contact us](/contact).
+      So if you'd like to learn more, request a quote, or book a free
+      consultation, [contact us](/contact).
     image_alt: Our team in the meeting room
     section_id: story
   - section_id: services
