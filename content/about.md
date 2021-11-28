@@ -6,10 +6,10 @@ sections:
     content: >
       We focus on creating solutions using our well-researched and time-tested
       strategies. From the days of Geeky Technologies(2016) to now, it's been 8
-      years of metamorphosis, learning, and optimization.
+      years of metamorphosis, constant learning, and optimization.
 
 
-      But now it's time to make the shift from now to next.
+      But now it's time, time to make the shift from now to next.
 
 
       Introducing **Julz Insight**, a digital studio focused on building
