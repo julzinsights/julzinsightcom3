@@ -1,83 +1,64 @@
 ---
-title: Our Story
+title: About
 hide_title: false
 sections:
   - type: content_section
     content: >
-      We focus on solving problems using our perfected techniques and strategies
-      through years of research. From the days of Geeky Technologies to now,
-      it's been 8 years of learning and optimization.
+      From the days of Geeky Technologies(2015) to now, it's been 7 years of
+      constant learning, metamorphosis, and optimization.
 
 
-      But now it's time. Time to make the shift from now to next.
+      But now it's time, time to make the shift from now to next.
 
 
-      Introducing Julz Insight, a digital studio focused on solving problems by
-      building impactful products and providing bespoke services.
+      Introducing **Julz Insight**, a small tight-knit digital studio focused on
+      building impactful products, providing bespoke services, and creating
+      cutting-edge solutions. We are dedicated to ensuring your company/startup
+      runs smoothly without having to worry about websites and branding as we
+      offer comprehensive multidisciplinary services that fit your needs.
 
 
-      We believe in the following principles
+      Why choose us?
 
 
-      1.  Innovation
+      1.  We are innovative
 
 
-      2.  Humility
+      2.  We are kind
 
 
-      3.  Creativity
+      3.  We are adaptable
 
 
-      Our desire is to see you move from now(problem) to next(success).
+      4.  We are honest
 
 
-      So if you'd like to learn more about us and what we do, feel free to
+      So if you'd like to learn more about us and make the shift, feel free to
       [contact us](/contact).
     image_alt: Our team in the meeting room
-  - section_id: lorem-ipsum
-    title: Our Products
+    section_id: story
+  - section_id: services
+    title: Services
     col_number: two
     grid_items:
-      - subtitle: Digital Magazine(Coming Soon)
+      - title: Web Development
+        actions: []
+      - title: Graphic Design
         image_alt: lorem-ipsum
         actions: []
-        image: images/Asset 1the noesis magazine new logo.png
-      - subtitle: Digital Medical History(Coming Soon)
+      - title: Content Creation
         image_alt: lorem-ipsum
         actions: []
-        image: images/Logo2.svg
+      - title: Web Design
+        image_alt: lorem-ipsum
+        actions: []
+      - title: I.T Supply
+        image_alt: lorem-ipsum
+        actions: []
+      - title: Consultation
+        image_alt: lorem-ipsum
+        actions: []
     type: grid_section
-  - type: grid_section
-    section_id: team
-    title: The Team
-    col_number: three
-    grid_items:
-      - title: Stephen Ajulu
-        image: images/author.jpg
-        subtitle: 'Founder, Director'
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/stephenajulu'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Github
-            url: 'https://github.com/stephenajulu'
-            style: icon
-            icon: github
-            new_window: true
-            no_follow: false
-          - label: Instagram
-            url: 'https://instagram.com/stephenajulu'
-            style: icon
-            icon: instagram
-            new_window: true
-            no_follow: false
-        image_alt: Stephen Ajulu
-        content: >
-          Stephen is a one-man army with 8 years of tech experience. He is
-          knowledgeable in Web Development, Graphic Design, Web Design, Web 3.0,
-          Cryptocurrencies, I.C.T Equipment Maintenance, Solidity, and more
   - type: cta_section
     section_id: cta
     title: Become a Team Player
