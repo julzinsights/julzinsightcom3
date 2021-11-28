@@ -35,6 +35,20 @@ sections:
       So if you'd like to learn more about us and make that shift, feel free to
       [contact us](/contact).
     image_alt: Our team in the meeting room
+  - section_id: services
+    title: Services
+    subtitle: What we do
+    col_number: three
+    grid_items:
+      - title: Web Design & Development
+        actions: []
+      - title: Graphic Design
+        image_alt: lorem-ipsum
+        actions: []
+      - title: Content Creation
+        image_alt: lorem-ipsum
+        actions: []
+    type: grid_section
   - type: grid_section
     section_id: team
     title: The Team
@@ -90,20 +104,6 @@ sections:
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: services
-    title: Services
-    subtitle: What we do
-    col_number: three
-    grid_items:
-      - title: Web Design & Development
-        actions: []
-      - title: Graphic Design
-        image_alt: lorem-ipsum
-        actions: []
-      - title: Content Creation
-        image_alt: lorem-ipsum
-        actions: []
-    type: grid_section
 seo:
   title: About Us - Julz Insight
   description: 'Learn more about us, our story and our principles'
