@@ -14,6 +14,12 @@ sections:
         icon: dribbble
         new_window: false
         no_follow: false
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
     content: |
       Make the shift from now to next↴
 seo:
