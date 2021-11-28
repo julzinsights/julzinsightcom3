@@ -51,7 +51,7 @@ sections:
       - title: Web Design
         image_alt: lorem-ipsum
         actions: []
-      - title: lorem-ipsum
+      - title: I.T Equipment Supply
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
