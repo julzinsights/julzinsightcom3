@@ -4,31 +4,36 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      We focus on solving problems using our perfected techniques and strategies
-      through years of research. From the days of Geeky Technologies to now,
-      it's been 8 years of learning and optimization.
+      We focus on creating solutions using our well-researched and time-tested
+      strategies. From the days of Geeky Technologies(2016) to now, it's been 8
+      years of metamorphosis, learning, and optimization.
 
 
-      But now it's time. Time to make the shift from now to next.
+      But now it's time. Time to:
 
 
-      Introducing Julz Insight, a digital studio focused on solving problems by
-      building impactful products and providing bespoke services.
+      > Make the shift from now to next.
 
 
-      We believe in the following principles
+      Introducing **Julz Insight**, a digital studio focused on building
+      impactful products, providing bespoke services, and innovating
+      cutting-edge solutions.
+
+
+      Our principles: 
 
 
       1.  Innovation
 
 
-      2.  Humility
+      2.  Creativity
 
 
-      3.  Creativity
+      3.  Permanence
 
 
-      Our desire is to see you move from now(problem) to next(success).
+      Our desire is to see you move from now(the challenge) to next(your
+      success).
 
 
       So if you'd like to learn more about us and what we do, feel free to
