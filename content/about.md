@@ -17,7 +17,7 @@ sections:
       solutions.
 
 
-      Why choose us? Choose us because;
+      Why choose us?
 
 
       1.  We are innovative
