@@ -11,7 +11,7 @@ sections:
       Make the shift from now to next by [contacting us](/contact).
     actions:
       - label: Consult!
-        url: '#'
+        url: /contact
         style: link
         icon: dribbble
         new_window: false
