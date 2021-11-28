@@ -54,7 +54,7 @@ sections:
       - title: I.T Supply
         image_alt: lorem-ipsum
         actions: []
-      - title: lorem-ipsum
+      - title: Consultation
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
