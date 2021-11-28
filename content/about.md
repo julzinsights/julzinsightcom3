@@ -51,7 +51,7 @@ sections:
       - title: Web Design
         image_alt: lorem-ipsum
         actions: []
-      - title: I.T Equipment Supply
+      - title: I.T Supply
         image_alt: lorem-ipsum
         actions: []
     type: grid_section
