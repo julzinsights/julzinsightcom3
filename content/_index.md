@@ -18,7 +18,7 @@ sections:
         url: /about
         style: link
         icon: dribbble
-        new_window: true
+        new_window: false
         no_follow: false
     content: |
       Make the shift from now to next↴

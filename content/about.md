@@ -14,7 +14,7 @@ sections:
       Introducing **Julz Insight**, a small tight-knit digital studio focused on
       building impactful products, providing bespoke services, and creating
       cutting-edge solutions. We are dedicated to ensuring your company/startup
-      runs smoothly without having to worry about websites and branding as we
+      runs smoothly without having to worry about the technical aspects as we
       offer comprehensive multidisciplinary services that fit your needs.
 
 
