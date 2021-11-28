@@ -48,7 +48,7 @@ sections:
       - title: Content Creation
         image_alt: lorem-ipsum
         actions: []
-      - title: lorem-ipsum
+      - title: Web Design
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
