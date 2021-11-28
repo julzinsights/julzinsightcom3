@@ -42,7 +42,7 @@ sections:
     grid_items:
       - title: Stephen Ajulu
         image: images/author.jpg
-        subtitle: 'Founder, Director'
+        subtitle: Founder & Creative Director
         actions:
           - label: Twitter
             url: 'https://twitter.com/stephenajulu'
