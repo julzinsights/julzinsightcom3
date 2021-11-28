@@ -31,7 +31,7 @@ sections:
 
 
       So if you'd like to learn more about us, request a quote, or make the
-      shift by booking a free consultation, kindly [contact us](/contact).
+      shift by booking a free consultation, [contact us](/contact).
     image_alt: Our team in the meeting room
     section_id: story
   - section_id: services
