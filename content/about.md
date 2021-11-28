@@ -30,12 +30,6 @@ sections:
       3.  We are adaptable
 
 
-      4.  We are honest
-
-
-      5.  We are understanding
-
-
       So if you'd like to learn more about us, request a quote, or make the
       shift by booking a free consultation, kindly [contact us](/contact).
     image_alt: Our team in the meeting room
