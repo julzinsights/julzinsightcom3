@@ -35,6 +35,7 @@ sections:
       So if you'd like to learn more about us and make that shift, feel free to
       [contact us](/contact).
     image_alt: Our team in the meeting room
+    section_id: story
   - section_id: services
     title: Services
     subtitle: What we do
