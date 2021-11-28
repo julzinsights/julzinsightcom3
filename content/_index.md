@@ -12,7 +12,7 @@ sections:
     actions:
       - label: Consult!
         url: /contact
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
