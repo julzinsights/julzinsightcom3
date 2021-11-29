@@ -33,7 +33,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Julz Insight - Digital Studio
+      value: 'Julz Insight - Digital Studio - Web, Design & Content'
       keyName: property
     - name: 'og:description'
       value: >-
