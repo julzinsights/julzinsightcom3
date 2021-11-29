@@ -5,8 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a digital studio focused on creating cutting-edge solutions,
-      building impactful products, and providing bespoke services.
+      We are a digital studio focused on creating impactful products and
+      cutting-edge solutions. We also offer comprehensive services.
     actions:
       - label: Get Started!
         url: /contact
