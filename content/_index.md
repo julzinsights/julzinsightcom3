@@ -23,7 +23,7 @@ sections:
     content: |
       Make the shift from now to next↴
 seo:
-  title: Julz Insight - Digital Studio
+  title: 'Julz Insight - Digital Studio - Web, Design & Content'
   description: >-
     Julz Insight is a digital studio focused on building impactful products and
     providing bespoke services. Make the shift now by booking your free
@@ -33,7 +33,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Julz Insight - Digital Studio
+      value: 'Julz Insight - Digital Studio - Web, Design & Content'
       keyName: property
     - name: 'og:description'
       value: >-
@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Julz Insight - Digital Studio
+      value: 'Julz Insight - Digital Studio - Web, Design & Content'
     - name: 'twitter:description'
       value: >-
         Julz Insight is a digital studio focused on building impactful products
