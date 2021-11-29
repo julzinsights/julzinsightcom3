@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are an independent studio focused on creating cutting-edge solutions,
+      We are a digital studio focused on creating cutting-edge solutions,
       building impactful products, and providing bespoke services.
     actions:
       - label: Get Started!
