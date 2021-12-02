@@ -5,9 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a digital studio focused on creating innovative tech solutions &
-      products for brands companes, individuals and startups. We also offer
-      comprehensive services.
+      We are a digital studio focused on creating innovative tech solutions and
+      products for startups, brands, companies, and individuals!
     actions:
       - label: Get Started!
         url: /contact
