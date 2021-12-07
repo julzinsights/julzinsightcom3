@@ -34,7 +34,7 @@
                 "style": "button"
             }
         ],
-        "logo": "images/default-monochrome.svg"
+        "logo": "images/default-monochrome-black.svg"
     },
     "footer": {
         "content": "&copy; Julz Insight. All rights reserved.",
