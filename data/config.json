@@ -34,7 +34,7 @@
                 "style": "button"
             }
         ],
-        "logo": "images/cover-02663c00.png"
+        "logo": "images/rsz_default.png"
     },
     "footer": {
         "content": "&copy; Julz Insight. All rights reserved.",
@@ -72,5 +72,5 @@
         ]
     },
     "domain": "https://julzinsight.netlify.app",
-    "favicon": "images/Circle Logo Solid White Background Black Text.png"
+    "favicon": "images/default-40f12e96.png"
 }
