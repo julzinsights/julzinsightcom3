@@ -5,8 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a digital studio focused on crafting tech solutions for startups,
-      brands, companies, and individuals.
+      We are a tech company focused on crafting innovative solutions and
+      investing in the future of humanity.
     actions:
       - label: Get Started!
         url: /contact
