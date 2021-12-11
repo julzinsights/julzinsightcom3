@@ -14,22 +14,12 @@
                 "style": "link"
             },
             {
-                "label": "Work",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
                 "label": "Insights",
                 "url": "/blog/",
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
-                "label": "Contact us",
+                "label": "Get In Touch Now!",
                 "url": "/contact/",
                 "style": "button"
             }
