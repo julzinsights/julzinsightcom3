@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: 'Julz Insight - Digital Studio - Web, Design & Content'
+      value: Ajulu Insights - I.T Solutions
     - name: 'twitter:description'
       value: >-
         Julz Insight is a digital studio focused on building impactful products
