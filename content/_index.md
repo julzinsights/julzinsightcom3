@@ -47,8 +47,8 @@ seo:
       value: Ajulu Insights - I.T Solutions
     - name: 'twitter:description'
       value: >-
-        Julz Insight is a digital studio focused on building impactful products
-        and providing bespoke services. Make the shift now by booking your free
+        Ajulu Insights is a tech company focused on crafting and investing in
+        innovative I.T solutions. Make the shift now by booking your free
         consultation!
     - name: 'og:image'
       value: images/julzinsight header.png
