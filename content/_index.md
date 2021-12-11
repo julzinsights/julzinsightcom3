@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a tech company focused on crafting  solutions for startups, brands,
+      We are a tech company focused on crafting solutions for startups, brands,
       companies, and individuals.
     actions:
       - label: Get Started!
