@@ -37,8 +37,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Julz Insight is a digital studio focused on building impactful products
-        and providing bespoke services. Make the shift now by booking your free
+        Ajulu Insights is a tech company focused on crafting and investing in
+        innovative I.T solutions. Make the shift now by booking your free
         consultation!
       keyName: property
     - name: 'twitter:card'
