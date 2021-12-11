@@ -23,7 +23,7 @@ sections:
     content: |
       Make the shift from now to next↴
 seo:
-  title: 'Julz Insight - Digital Studio - Web, Design & Content'
+  title: Ajulu Insights - I.T Solutions
   description: >-
     Julz Insight is a digital studio focused on building impactful products and
     providing bespoke services. Make the shift now by booking your free
