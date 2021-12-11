@@ -1,11 +1,11 @@
 {
-    "title": "Julz Insight",
+    "title": "Ajulu Insights",
     "color_scheme": "light",
-    "accent_color": "violet",
+    "accent_color": "green",
     "base_font": "fraunces",
     "header": {
-        "title": "Julz Insight",
-        "logo_alt": "Julz Insight Logo Digital Studio",
+        "title": "Ajulu Insights",
+        "logo_alt": "Ajulu Insights Logo",
         "has_nav": true,
         "nav_links": [
             {
@@ -72,5 +72,5 @@
         ]
     },
     "domain": "https://julzinsight.netlify.app",
-    "favicon": "images/default-8c6ade97.png"
+    "favicon": "images/Ajulu 1 White On Dark Grey.png"
 }
