@@ -5,8 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a tech company focused on crafting solutions and investing in the
-      future of humanityfor startups, brands, companies, and individuals.
+      We are a tech company focused on crafting innovative solutions and
+      investing in the future of humanityfor startups, brands, companies, and
+      individuals.
     actions:
       - label: Get Started!
         url: /contact
