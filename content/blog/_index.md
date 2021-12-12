@@ -16,7 +16,9 @@ seo:
       value: Journal - Julz Insight
       keyName: property
     - name: 'og:description'
-      value: This is our journal
+      value: >-
+        This is our journal, where we post news, tips, highlights and articles.
+        We also post projects and case studies here.
       keyName: property
     - name: 'og:image'
       value: images/post-1.jpg
