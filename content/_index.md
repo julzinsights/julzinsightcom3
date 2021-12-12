@@ -15,7 +15,7 @@ sections:
         new_window: false
         no_follow: false
     content: |
-      Make the shift from now to next by booking a free consultation right now↴
+      Make the shift from now to next by booking your free consultation↴
 seo:
   title: Julz Insights - I.T Solutions
   description: >-
