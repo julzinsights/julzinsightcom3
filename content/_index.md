@@ -7,15 +7,10 @@ sections:
     title: >-
       We are a tech company focused on developing, testing and investing in
       solutions, startups, and products.
-    actions:
-      - label: Get Started Now!
-        url: /contact
-        style: button
-        icon: dribbble
-        new_window: false
-        no_follow: false
-    content: |
-      Make the shift from now to next by booking your free consultation↴
+    actions: []
+    content: >
+      Make the shift from now to next by [booking your free
+      consultation](/contact)
 seo:
   title: Julz Insights - Bespoke I.T Solutions
   description: >-
