@@ -29,7 +29,7 @@ sections:
           - Graphic Design
           - Content Creation
           - Web & Search Engine Optimization
-          - lorem-ipsum
+          - ICT Equipment Supply and Tendering
       - input_type: textarea
         name: message
         label: Message
