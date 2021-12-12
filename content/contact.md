@@ -30,7 +30,7 @@ sections:
           - Content Creation
           - Web & Search Engine Optimization
           - Consultation
-          - lorem-ipsum
+          - Custom Service(Other
       - input_type: textarea
         name: message
         label: Message
