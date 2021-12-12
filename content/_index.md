@@ -49,7 +49,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:image'
-      value: images/julzinsight header.png
+      value: images/julzinsights social image-32dd388b.png
       keyName: property
       relativeUrl: true
 layout: advanced
