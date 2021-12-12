@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Get Started Now!
         url: /contact
-        style: button
+        style: link
         icon: dribbble
         new_window: false
         no_follow: false
