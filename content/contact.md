@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact us
 hide_title: false
 sections:
   - type: form_section
@@ -25,9 +25,12 @@ sections:
         label: What services are you looking for?
         default_value: Please select
         options:
-          - Branding
-          - Design
-          - Digital
+          - Web Development & Design
+          - Graphic Design
+          - Content Creation
+          - Web & Search Engine Optimization
+          - Consultation
+          - Custom Services & Others
       - input_type: textarea
         name: message
         label: Message
@@ -39,14 +42,14 @@ sections:
           can be contacted.
     submit_label: Send Message
 seo:
-  title: Contact - Julz Insight
+  title: Contact - Julz Insights
   description: Contact us and book your free consultation now
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact - Julz Insight
+      value: Contact - Julz Insights
       keyName: property
     - name: 'og:description'
       value: Contact us and book your free consultation now
@@ -54,7 +57,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact - Julz Insight
+      value: Contact - Julz Insights
     - name: 'twitter:description'
       value: Contact us and book your free consultation now
 layout: advanced
