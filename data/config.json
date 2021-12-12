@@ -21,7 +21,7 @@
             {
                 "label": "Contact us",
                 "url": "/contact/",
-                "style": "button"
+                "style": "link"
             }
         ],
         "logo": "images/rsz_adobe_post_20211212_031942023697157365134858.svg"
