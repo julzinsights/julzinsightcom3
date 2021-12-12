@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Ajulu Insights - I.T Solutions
+      value: Julz Insights - I.T Solutions
     - name: 'twitter:description'
       value: >-
         Ajulu Insights is a tech company focused on crafting and investing in
