@@ -17,7 +17,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        This is our journal, where we post news, tips, highlights and articles.
+        This is our journal, where we post news, tips, highlights, and articles.
         We also post projects and case studies here.
       keyName: property
     - name: 'og:image'
