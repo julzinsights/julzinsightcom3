@@ -29,7 +29,9 @@ seo:
     - name: 'twitter:title'
       value: Journal - Julz Insight
     - name: 'twitter:description'
-      value: This is our journal
+      value: >-
+        This is our journal, where we post news, tips, highlights, and articles.
+        We also post projects and case studies here.
     - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true
