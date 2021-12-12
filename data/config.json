@@ -28,6 +28,14 @@
                 "icon": "dribbble",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "logo": "images/rsz_adobe_post_20211212_031942023697157365134858.svg"
