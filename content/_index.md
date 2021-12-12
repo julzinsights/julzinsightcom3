@@ -36,7 +36,7 @@ seo:
         consultation!
       keyName: property
     - name: 'twitter:card'
-      value: summary
+      value: summary-large-image
     - name: 'twitter:title'
       value: Julz Insights - Bespoke I.T Solutions
     - name: 'twitter:description'
