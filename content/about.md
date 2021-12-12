@@ -5,7 +5,7 @@ sections:
   - type: content_section
     content: >
       **Julz Insights** is a small tight-knit tech company focused on developing
-      and investing in innovative tech solutions.
+      and investing in innovative tech solutions/products for your betterment.
 
 
       We offer a wide array of comprehensive multidisciplinary services that fit
