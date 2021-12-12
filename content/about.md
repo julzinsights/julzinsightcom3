@@ -4,30 +4,17 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      From the days of Geeky Technologies(2015) to now, it's been 7 years of
-      constant learning, metamorphosis, and optimization.
+      **Julz Insights** is a small tight-knit tech company focused on developing
+      and investing in innovative tech solutions/products for your betterment.
 
 
-      But now it's time, time to make the shift from now to next.
+      We offer a wide array of comprehensive multidisciplinary services that fit
+      your needs, to ensure your company runs smoothly without having to worry
+      about the technical aspects.
 
 
-      Introducing **Julz Insight**, a small tight-knit digital studio focused on
-      building impactful products, providing bespoke services, and creating
-      cutting-edge solutions. We are dedicated to ensuring your company/startup
-      runs smoothly without having to worry about the technical aspects as we
-      offer comprehensive multidisciplinary services that fit your needs.
-
-
-      Why choose us?
-
-
-      1.  We are innovative
-
-
-      2.  We are capable
-
-
-      3.  We are adaptable
+      Aside from these we also offer custom services and solutions which you can
+      ask about on our contact page.
 
 
       So if you'd like to learn more, request a quote, or book a free
@@ -68,14 +55,14 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: About Us - Julz Insight
+  title: About Us - Julz Insights
   description: 'Learn more about us, our story and our principles'
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us - Julz Insight
+      value: About Us - Julz Insights
       keyName: property
     - name: 'og:description'
       value: 'Learn more about us, our story and our principles'
@@ -87,7 +74,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us - Julz Insight
+      value: About Us - Julz Insights
     - name: 'twitter:description'
       value: 'Learn more about us, our story and our principles'
     - name: 'twitter:image'
