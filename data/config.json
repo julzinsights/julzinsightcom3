@@ -23,7 +23,7 @@
             },
             {
                 "label": "Insights",
-                "url": "#",
+                "url": "/blog",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
