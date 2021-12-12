@@ -26,7 +26,7 @@ sections:
         default_value: Please select
         options:
           - Web Development & Design
-          - Design
+          - Graphic Design
           - Digital
       - input_type: textarea
         name: message
