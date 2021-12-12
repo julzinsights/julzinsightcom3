@@ -27,7 +27,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Julz Insights - I.T Solutions
+      value: Julz Insights - Bespoke I.T Solutions
       keyName: property
     - name: 'og:description'
       value: >-
