@@ -28,7 +28,7 @@ sections:
           - Web Development & Design
           - Graphic Design
           - Content Creation
-          - lorem-ipsum
+          - Web & Search Engine Optimization
       - input_type: textarea
         name: message
         label: Message
