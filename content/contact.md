@@ -57,7 +57,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact - Julz Insight
+      value: Contact - Julz Insights
     - name: 'twitter:description'
       value: Contact us and book your free consultation now
 layout: advanced
