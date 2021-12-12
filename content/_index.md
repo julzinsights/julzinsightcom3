@@ -45,7 +45,7 @@ seo:
         innovative I.T solutions. Make the shift now by booking your free
         consultation!
     - name: 'og:image'
-      value: images/julzinsight header.png
+      value: images/julzinsights social image.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:image'
