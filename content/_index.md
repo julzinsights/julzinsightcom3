@@ -47,7 +47,7 @@ seo:
       value: Julz Insights - I.T Solutions
     - name: 'twitter:description'
       value: >-
-        Ajulu Insights is a tech company focused on crafting and investing in
+        Julz Insights is a tech company focused on crafting and investing in
         innovative I.T solutions. Make the shift now by booking your free
         consultation!
     - name: 'og:image'
