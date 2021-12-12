@@ -62,7 +62,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us - Julz Insight
+      value: About Us - Julz Insights
       keyName: property
     - name: 'og:description'
       value: 'Learn more about us, our story and our principles'
