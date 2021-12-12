@@ -17,7 +17,7 @@ sections:
     content: |
       Make the shift from now to next by booking your free consultation↴
 seo:
-  title: Julz Insights - I.T Solutions
+  title: Julz Insights - Bespoke I.T Solutions & Services
   description: >-
     Julz Insights is a tech company focused on crafting and investing in
     innovative I.T solutions. Make the shift now by booking your free
