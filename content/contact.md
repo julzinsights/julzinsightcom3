@@ -49,7 +49,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact - Julz Insight
+      value: Contact - Julz Insights
       keyName: property
     - name: 'og:description'
       value: Contact us and book your free consultation now
