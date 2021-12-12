@@ -30,7 +30,7 @@ sections:
           - Content Creation
           - Web & Search Engine Optimization
           - Consultation
-          - Custom Service(Other
+          - Custom Service
       - input_type: textarea
         name: message
         label: Message
