@@ -8,7 +8,7 @@ sections:
       We are a tech company focused on crafting and investing in innovative tech
       solutions, startups, and products.
     actions:
-      - label: Get Started!
+      - label: Get Started Now!
         url: /contact
         style: button
         icon: dribbble
