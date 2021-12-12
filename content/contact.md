@@ -27,7 +27,7 @@ sections:
         options:
           - Web Development & Design
           - Graphic Design
-          - Digital
+          - Content Creation
       - input_type: textarea
         name: message
         label: Message
