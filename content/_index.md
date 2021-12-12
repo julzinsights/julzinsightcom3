@@ -38,7 +38,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Julz Insights - I.T Solutions
+      value: Julz Insights - Bespoke I.T Solutions
     - name: 'twitter:description'
       value: >-
         Julz Insights is a tech company focused on crafting and investing in
