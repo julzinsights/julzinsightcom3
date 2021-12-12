@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a tech company focused on crafting and investing in innovative tech
+      We are a tech company focused on developing, testing and investing in
       solutions, startups, and products.
     actions:
       - label: Get Started Now!
