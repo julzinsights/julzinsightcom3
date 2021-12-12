@@ -19,11 +19,6 @@
                 "style": "link"
             },
             {
-                "label": "Contact us",
-                "url": "/contact/",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about",
                 "style": "link",
