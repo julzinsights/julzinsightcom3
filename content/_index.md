@@ -23,9 +23,9 @@ sections:
     content: |
       Make the shift from now to next↴
 seo:
-  title: Ajulu Insights - I.T Solutions
+  title: Julz Insights - I.T Solutions
   description: >-
-    Ajulu Insights is a tech company focused on crafting and investing in
+    Julz Insights is a tech company focused on crafting and investing in
     innovative I.T solutions. Make the shift now by booking your free
     consultation!
   extra:
@@ -33,21 +33,21 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Ajulu Insights - I.T Solutions
+      value: Julz Insights - I.T Solutions
       keyName: property
     - name: 'og:description'
       value: >-
-        Ajulu Insights is a tech company focused on crafting and investing in
+        Julz Insights is a tech company focused on crafting and investing in
         innovative I.T solutions. Make the shift now by booking your free
         consultation!
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Ajulu Insights - I.T Solutions
+      value: Julz Insights - I.T Solutions
     - name: 'twitter:description'
       value: >-
-        Ajulu Insights is a tech company focused on crafting and investing in
+        Julz Insights is a tech company focused on crafting and investing in
         innovative I.T solutions. Make the shift now by booking your free
         consultation!
     - name: 'og:image'

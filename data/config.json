@@ -1,10 +1,10 @@
 {
-    "title": "Ajulu Insights",
+    "title": "Julz Insights",
     "color_scheme": "light",
     "accent_color": "violet",
     "base_font": "fraunces",
     "header": {
-        "title": "Ajulu Insights",
+        "title": "Julz Insights",
         "logo_alt": "Ajulu Insights Logo",
         "has_nav": true,
         "nav_links": [
@@ -24,10 +24,10 @@
                 "style": "button"
             }
         ],
-        "logo": "images/rsz_1ajulu_insights_logo_1_dark_grey_transparent.png"
+        "logo": "images/rsz_adobe_post_20211212_031942023697157365134858.svg"
     },
     "footer": {
-        "content": "© Ajulu Insights. All Rights Reserved.",
+        "content": "© Julz Insights",
         "has_social": true,
         "social_links": [
             {
@@ -62,5 +62,5 @@
         ]
     },
     "domain": "https://ajuluinsights.netlify.app",
-    "favicon": "images/Ajulu Insights Logo 1 Dark Grey on White Solid.png"
+    "favicon": "images/Adobe_Post_20211212_0321270.7634164932340975.png"
 }
