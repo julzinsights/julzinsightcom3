@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: >-
       We are a tech company focused on developing, testing and investing in
-      innovative solutions, startups, and products.
+      solutions, startups, and products.
     actions:
       - label: Get Started Now!
         url: /contact
