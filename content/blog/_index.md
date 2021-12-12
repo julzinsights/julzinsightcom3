@@ -5,7 +5,9 @@ hide_title: false
 col_number: three
 seo:
   title: Journal - Julz Insights
-  description: This is our journal
+  description: >-
+    This is our journal, where we post news, tips, highlights and articles. We
+    also post projects and case studies here.
   extra:
     - name: 'og:type'
       value: website
