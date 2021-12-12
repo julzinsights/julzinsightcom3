@@ -29,7 +29,6 @@ sections:
           - Graphic Design
           - Content Creation
           - Web & Search Engine Optimization
-          - ICT Equipment Supply and Tendering
           - Consultation
       - input_type: textarea
         name: message
