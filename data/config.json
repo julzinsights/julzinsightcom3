@@ -5,7 +5,7 @@
     "base_font": "fraunces",
     "header": {
         "title": "Julz Insights",
-        "logo_alt": "Ajulu Insights Logo",
+        "logo_alt": "Julz Insights Logo",
         "has_nav": true,
         "nav_links": [
             {
@@ -14,18 +14,24 @@
                 "style": "link"
             },
             {
+                "label": "About",
+                "url": "/about",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Insights",
-                "url": "/blog/",
-                "style": "link"
+                "url": "/blog",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false
             },
             {
                 "label": "Contact us",
-                "url": "/contact/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about",
+                "url": "/contact",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
