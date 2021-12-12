@@ -46,14 +46,14 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/julzinsight",
+                "url": "https://twitter.com/julzinsights",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/julzinsight",
+                "url": "https://www.instagram.com/julzinsights",
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true

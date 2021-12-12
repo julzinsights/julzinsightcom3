@@ -8,9 +8,8 @@ sections:
       We are a tech company focused on developing, testing and investing in
       solutions, startups, and products.
     actions: []
-    content: >
-      Make the shift from now to next by [booking your free
-      consultation](/contact)
+    content: |
+      [Book your free consultation right now!](/contact)
 seo:
   title: Julz Insights - Bespoke I.T Solutions
   description: >-
