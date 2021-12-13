@@ -95,7 +95,7 @@ sections:
     type: grid_section
   - type: cta_section
     section_id: cta
-    title: Got A Project? Let's Work Together!
+    title: Let's Work Together!
     content: "Say hello at\_<julzinsight@gmail.com>\_or tell us more about your project by getting started below.\n"
     image: images/cta.svg
     image_alt: Illustration
