@@ -53,6 +53,7 @@ sections:
           *   Miscellaneous Tweaks, Integrations, and Setup such as Web
           Analytics Setup, Chatbot Integration, Progressive Web App Conversion,
           Google Ads Integration, and more
+        image: images/undraw_web_development_0l6v.svg
       - title: Content Creation
         image_alt: lorem-ipsum
         actions: []
