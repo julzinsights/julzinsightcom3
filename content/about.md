@@ -56,7 +56,7 @@ sections:
         image: images/undraw_web_development_0l6v.svg
         image_alt: web development illustration
       - title: Content Creation
-        image_alt: lorem-ipsum
+        image_alt: content creation illustration
         actions: []
         image: images/undraw_content_re_33px.svg
       - title: Consultation
