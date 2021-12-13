@@ -108,7 +108,7 @@ sections:
         new_window: true
         no_follow: false
   - section_id: lorem-ipsum
-    title: Re
+    title: Recent Work
     subtitle: lorem-ipsum
     layout_style: mosaic
     projects_number: 4
