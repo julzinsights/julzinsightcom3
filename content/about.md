@@ -94,7 +94,7 @@ sections:
 
           *   Google Ads Integration
 
-          *   Google My Business and Crunchbase Setup
+          *   Technical Writing
 
           *   DNS and CDN Intergration
 
