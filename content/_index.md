@@ -9,7 +9,7 @@ sections:
       solutions, startups, and products.
     actions: []
     content: |
-      [Book your free consultation now!](/contact) or [learn more](/about)
+      [Book your free consultation right now](/contact) or [learn more](/about)
 seo:
   title: Julz Insights - Bespoke I.T Solutions
   description: >-
