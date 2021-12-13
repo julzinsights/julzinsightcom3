@@ -62,6 +62,7 @@ sections:
       - title: Consultation
         image_alt: lorem-ipsum
         actions: []
+        image: images/undraw_innovative_b409.svg
     type: grid_section
   - type: cta_section
     section_id: cta
