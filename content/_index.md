@@ -10,8 +10,8 @@ sections:
     actions: []
     content: >
       We provide Web Development, Content Creation, and IT Consultation
-      services. We also accept custom orders. Reach out and [talk to
-      us](/contact) to get started or [learn more](/about).
+      services. We also offer custom solutions. Got a project? Reach out and
+      [talk to us](/contact) to get started or [learn more](/about).
 seo:
   title: Julz Insights - Bespoke I.T Solutions
   description: >-
