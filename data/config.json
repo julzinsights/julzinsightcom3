@@ -2,7 +2,7 @@
     "title": "Julz Insights",
     "color_scheme": "dark",
     "accent_color": "green",
-    "base_font": "fraunces",
+    "base_font": "system-sans",
     "header": {
         "title": "Julz Insights",
         "logo_alt": "Julz Insights Logo",
