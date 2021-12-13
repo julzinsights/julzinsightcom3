@@ -24,7 +24,7 @@ sections:
     section_id: story
   - section_id: services
     title: Services
-    col_number: two
+    col_number: three
     grid_items:
       - title: Web Development
         actions: []
