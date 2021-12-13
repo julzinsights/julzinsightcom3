@@ -28,28 +28,30 @@ sections:
     grid_items:
       - title: Web Development
         actions: []
-        content: >
+        content: |
           Here we offer:
-
 
           *   WordPress Development
 
-
           *   Hugo Web Development
-
 
           *   Shopify Store Development
 
-
           *   Web Design using Webflow and/or Figma
-
 
           *   Web and Search Engine Optimization
 
+          *   Miscellaneous Tweaks, Integrations, and Setup such as
 
-          *   Miscellaneous Tweaks, Integrations, and Setup such as Web
-          Analytics Setup, Social Media Funneling, Chatbot Integration,
-          Progressive Web App Conversion, Google Ads Integration, and more
+            \- Web Analytics Setup
+
+            \- Social Media Funneling
+
+            \- Chatbot Integration
+
+            \-  Progressive Web App Conversion
+
+            \- Google Ads Integration, and more
         image: images/service-1.svg
         image_alt: web development illustration
       - title: Content Creation
