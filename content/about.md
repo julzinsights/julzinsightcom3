@@ -55,7 +55,7 @@ sections:
       - title: Content Creation
         image_alt: content creation illustration
         actions: []
-        image: images/undraw_content_re_33px.svg
+        image: images/service-2.svg
         content: |
           Here we offer:
 
