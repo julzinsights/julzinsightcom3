@@ -60,7 +60,7 @@ sections:
         actions: []
         image: images/undraw_content_re_33px.svg
       - title: Consultation
-        image_alt: lorem-ipsum
+        image_alt: consultation illustration
         actions: []
         image: images/undraw_innovative_b409.svg
     type: grid_section
