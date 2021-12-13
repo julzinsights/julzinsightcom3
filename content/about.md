@@ -28,9 +28,6 @@ sections:
     grid_items:
       - title: Web Development
         actions: []
-      - title: Graphic Design
-        image_alt: lorem-ipsum
-        actions: []
       - title: Content Creation
         image_alt: lorem-ipsum
         actions: []
