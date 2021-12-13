@@ -9,9 +9,10 @@ sections:
       bespoke I.T solutions.
     actions: []
     content: >
-      We provide web development, content creation, and IT consultation. Reach
-      out and book your free [consultation](/contact) right now to get started
-      or learn more [about us](/about).
+      We provide web development, content creation, and IT consultation
+      services. We also accept custom orders. Reach out and book your free
+      [consultation](/contact) with us right now to get started or [learn
+      more](/about).
 seo:
   title: Julz Insights - Bespoke I.T Solutions
   description: >-
