@@ -48,7 +48,7 @@ sections:
         content: |
           Here we offer:
 
-          *   WordPress Development
+          *   WordPress Site Development
 
           *   Hugo Blog Development
 
