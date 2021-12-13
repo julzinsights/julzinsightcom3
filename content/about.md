@@ -37,9 +37,6 @@ sections:
       - title: Web Design
         image_alt: lorem-ipsum
         actions: []
-      - title: I.T Supply
-        image_alt: lorem-ipsum
-        actions: []
       - title: Consultation
         image_alt: lorem-ipsum
         actions: []
