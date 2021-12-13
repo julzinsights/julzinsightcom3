@@ -54,7 +54,7 @@ sections:
 
           *   Shopify Store Development
 
-          *   Webflow Site Design
+          *   Web Design with Webflow
 
           *   Web and Search Engine Optimization
 
