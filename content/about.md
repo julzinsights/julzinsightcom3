@@ -105,7 +105,7 @@ sections:
         url: /contact
         style: button
         icon: dribbble
-        new_window: false
+        new_window: true
         no_follow: false
 seo:
   title: About Us - Julz Insights
