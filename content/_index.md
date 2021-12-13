@@ -5,8 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a tech company focused on developing, testing and investing in
-      solutions, startups, and products.
+      We are a tech company focused on creating bespoke I.T products &
+      solutions.
     actions: []
     content: |
       Book a free [consultation](/contact) or [learn more](/about)
