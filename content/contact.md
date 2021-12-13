@@ -26,7 +26,6 @@ sections:
         default_value: Please select
         options:
           - Web Development & Design
-          - Graphic Design
           - Content Creation
           - Web & Search Engine Optimization
           - Consultation
