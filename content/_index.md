@@ -5,11 +5,11 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a tech company focused on developing, testing and investing in
-      solutions, startups, and products.
+      We are a tech company focused on creating and providing bespoke I.T
+      solutions.
     actions: []
     content: |
-      [Book your free consultation right now](/contact) or [learn more](/about)
+      Book a free [consultation](/contact) or [learn more](/about)
 seo:
   title: Julz Insights - Bespoke I.T Solutions
   description: >-
