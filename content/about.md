@@ -109,7 +109,7 @@ sections:
         no_follow: false
   - section_id: lorem-ipsum
     title: Recent Work
-    subtitle: lorem-ipsum
+    subtitle: 'Some of the '
     layout_style: mosaic
     projects_number: 4
     view_all_label: lorem-ipsum
