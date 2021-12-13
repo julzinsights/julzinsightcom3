@@ -112,7 +112,7 @@ sections:
     subtitle: Some of the projects we've worked on
     layout_style: mosaic
     projects_number: 4
-    view_all_label: lorem-ipsum
+    view_all_label: See more
     view_all_url: '#'
     type: portfolio_section
 seo:
