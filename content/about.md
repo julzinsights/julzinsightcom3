@@ -58,6 +58,7 @@ sections:
       - title: Content Creation
         image_alt: lorem-ipsum
         actions: []
+        image: images/undraw_content_re_33px.svg
       - title: Consultation
         image_alt: lorem-ipsum
         actions: []
