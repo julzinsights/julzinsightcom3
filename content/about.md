@@ -77,13 +77,11 @@ sections:
         content: |
           Here we offer:
 
-          *   Small Business Cybersecurity Strategic Consultation
+          *   Small Business Cybersecurity Consultation
 
-          *   ICT Consultation
+          *   IT Consultation
 
           *   ICT Software & Equipment Supply
-
-          *   Content Strategy
 
           *   Business Process Optimization
 
@@ -91,7 +89,7 @@ sections:
 
           *   Website Development Consultation
 
-          *   Startup/Business Growth Strategic Consultation
+          *   Strategic Startup/Business Growth Consultation
     type: grid_section
   - type: cta_section
     section_id: cta
