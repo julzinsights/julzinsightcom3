@@ -9,7 +9,7 @@ sections:
       bespoke I.T solutions.
     actions: []
     content: |
-      Book a free [consultation](/contact) or [learn more](/about)
+      Book a free [consultation](/contact) or learn more [about us](/about)
 seo:
   title: Julz Insights - Bespoke I.T Solutions
   description: >-
