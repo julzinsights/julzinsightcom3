@@ -71,7 +71,7 @@ sections:
 
           *   Small Business Cybersecurity Consultation
 
-          *   IT Consultation
+          *   Strategic IT Consultation
 
           *   ICT Software & Equipment Supply
 
@@ -79,9 +79,7 @@ sections:
 
           *   Business Registration and Incorporation
 
-          *   Website Development Consultation
-
-          *   Strategic Startup/Business Growth Consultation
+          *   Web Development Consultation
     type: grid_section
   - type: cta_section
     section_id: cta
