@@ -9,7 +9,7 @@ sections:
       providing bespoke I.T solutions.
     actions: []
     content: >
-      We provide Web Development, Content Creation, and IT Consultation
+      We provide Web Development, Technical Writing, and ICT Consultation
       services. We also offer custom solutions. Got a project? Reach out and
       [talk to us](/contact) to get started or [learn more](/about).
 seo:
