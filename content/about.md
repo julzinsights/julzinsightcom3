@@ -95,7 +95,7 @@ sections:
     type: grid_section
   - type: cta_section
     section_id: cta
-    title: Become a Team Player
+    title: Got A Project? Let's Work Together!
     content: >
       We are always looking for great people to join our team. If you are
       interested in working for Julz, please send an email to
