@@ -100,6 +100,7 @@ sections:
 
           *   Comprehensive Web Performance Report
         actions: []
+        image: images/service-2.svg
     type: grid_section
   - type: cta_section
     section_id: cta
