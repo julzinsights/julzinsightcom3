@@ -63,6 +63,22 @@ sections:
         image_alt: consultation illustration
         actions: []
         image: images/undraw_innovative_b409.svg
+        content: |
+          Here we offer:
+
+          *   Small Business Cybersecurity Strategy Consultation
+
+          *   ICT Consultation
+
+          *   ICT Software & Equipment Supply
+
+          *   Content Strategy
+
+          *   Business Process Optimization
+
+          *   Business Registration and Incorporation
+
+          *   Website Development Consultation
     type: grid_section
   - type: cta_section
     section_id: cta
