@@ -13,20 +13,20 @@ sections:
       about on our contact page by telling us more about your project.
 
 
-      ##### Our Mission
+      ###### Our Mission
 
 
       "To create innovative tech solutions for our clients."
 
 
-      ##### Our Vision
+      ###### Our Vision
 
 
       "To create, provide and invest in innovative tech solutions that propel
       our clients forward."
 
 
-      ##### Our Mandate
+      ###### Our Mandate
 
 
       "To help our clients make the shift from now to next."
