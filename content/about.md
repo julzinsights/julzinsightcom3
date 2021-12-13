@@ -73,7 +73,7 @@ sections:
       - title: Consultation
         image_alt: consultation illustration
         actions: []
-        image: images/undraw_innovative_b409.svg
+        image: images/service-3.svg
         content: |
           Here we offer:
 
