@@ -50,7 +50,7 @@ sections:
           *   Miscellaneous Tweaks, Integrations, and Setup such as Web
           Analytics Setup, Social Media Funneling, Chatbot Integration,
           Progressive Web App Conversion, Google Ads Integration, and more
-        image: images/undraw_web_development_0l6v.svg
+        image: images/service-1.svg
         image_alt: web development illustration
       - title: Content Creation
         image_alt: content creation illustration
