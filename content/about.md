@@ -4,17 +4,18 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      **Julz Insights** is a small tight-knit tech company focused on developing
-      and investing in innovative tech solutions/products for your betterment.
+      Welcome to **Julz Insights** is a small tech company based in Kenya that
+      is focused on developing, testing, and investing in innovative tech
+      solutions/products. 
 
 
-      We offer a wide array of comprehensive multidisciplinary services that fit
-      your needs, to ensure your company runs smoothly without having to worry
-      about the technical aspects.
+      We believe in you and as such offer comprehensive services that fit your
+      needs, ensuring your prosperity and smooth runnings without having to
+      worry about the technical side of things.
 
 
-      Aside from these we also offer custom services and solutions which you can
-      ask about on our contact page.
+      Aside from this we also offer custom services and solutions which you can
+      inquire about on our contact page by telling us more about your project.
 
 
       So if you'd like to learn more, request a quote, or book a free
@@ -23,37 +24,97 @@ sections:
     section_id: story
   - section_id: services
     title: Services
-    col_number: two
+    col_number: three
     grid_items:
       - title: Web Development
         actions: []
-      - title: Graphic Design
-        image_alt: lorem-ipsum
-        actions: []
+        content: |
+          Here we offer:
+
+          *   WordPress Development
+
+          *   Hugo Web Development
+
+          *   Shopify Store Development
+
+          *   Web Design using Webflow and/or Figma
+
+          *   Web and Search Engine Optimization
+
+          *   Miscellaneous Tweaks, Integrations, and Setup such as
+
+            \- Web Analytics Setup
+
+            \- Social Media Funneling
+
+            \- Chatbot Integration
+
+            \-  Progressive Web App Conversion
+
+            \- Google Ads Integration, and more
+        image: images/service-1.svg
+        image_alt: web development illustration
       - title: Content Creation
-        image_alt: lorem-ipsum
+        image_alt: content creation illustration
         actions: []
-      - title: Web Design
-        image_alt: lorem-ipsum
-        actions: []
-      - title: I.T Supply
-        image_alt: lorem-ipsum
-        actions: []
+        image: images/service-2.svg
+        content: |
+          Here we offer:
+
+          *   Article/Blog Writing
+
+          *   Proposal Creation
+
+          *   Copywriting
+
+          *   Email Campaigns
+
+          *   Social Media Management
+
+          *   Social Media and Basic Graphic Design
       - title: Consultation
-        image_alt: lorem-ipsum
+        image_alt: consultation illustration
         actions: []
+        image: images/service-3.svg
+        content: |
+          Here we offer:
+
+          *   Small Business Cybersecurity Consultation
+
+          *   IT Consultation
+
+          *   ICT Software & Equipment Supply
+
+          *   Business Process Optimization
+
+          *   Business Registration and Incorporation
+
+          *   Website Development Consultation
+
+          *   Strategic Startup/Business Growth Consultation
     type: grid_section
   - type: cta_section
     section_id: cta
-    title: Become a Team Player
-    content: >
-      We are always looking for great people to join our team. If you are
-      interested in working for Julz, please send an email to
-      <julzinsight@gmail.com> with your CV and which position you are interested
-      in.
-    image: images/cta-about.svg
+    title: Let's Work Together!
+    content: "Do you have a project? Say hello at\_<julzinsight@gmail.com>\_or tell us more about your project by getting started below.\n"
+    image: images/cta.svg
     image_alt: Illustration
     bg_color: light
+    actions:
+      - label: Get Started Now!
+        url: /contact
+        style: button
+        icon: dribbble
+        new_window: true
+        no_follow: false
+  - section_id: lorem-ipsum
+    title: Recent Work
+    subtitle: Some of the projects we've worked on
+    layout_style: mosaic
+    projects_number: 4
+    view_all_label: See more
+    view_all_url: /portfolio
+    type: portfolio_section
 seo:
   title: About Us - Julz Insights
   description: 'Learn more about us, our story and our principles'
