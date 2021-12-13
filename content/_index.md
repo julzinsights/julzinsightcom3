@@ -8,8 +8,11 @@ sections:
       We are a tech company focused on building impactful products and providing
       bespoke I.T solutions.
     actions: []
-    content: |
-      Book a free [consultation](/contact) or learn more [about us](/about)
+    content: >
+      We provide web development services using the latest technologies such as
+      WordPress, Webflow, and Hugo. Book a free [consultation](/contact) now to
+      get started or learn more [about us](/about). We also offer IT
+      consultations.
 seo:
   title: Julz Insights - Bespoke I.T Solutions
   description: >-
