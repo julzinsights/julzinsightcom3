@@ -61,24 +61,6 @@ sections:
           *   Miscellaneous Tweaks, Integrations, Convertions and Setup
         image: images/service-1.svg
         image_alt: web development illustration
-      - title: Content Creation
-        image_alt: content creation illustration
-        actions: []
-        image: images/service-2.svg
-        content: |
-          Here we offer:
-
-          *   Article/Blog Writing
-
-          *   Proposal Creation
-
-          *   Copywriting
-
-          *   Email Campaigns
-
-          *   Social Media Management
-
-          *   Social Media and Basic Graphic Design
       - title: Consultation
         image_alt: consultation illustration
         actions: []
