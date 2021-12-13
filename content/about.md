@@ -96,11 +96,7 @@ sections:
   - type: cta_section
     section_id: cta
     title: Got A Project? Let's Work Together!
-    content: >
-      We are always looking for great people to join our team. If you are
-      interested in working for Julz, please send an email to
-      <julzinsight@gmail.com> with your CV and which position you are interested
-      in.
+    content: "Say hello at\_<julzinsight@gmail.com>\_or tell us more about your project by getting started below.\n"
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
