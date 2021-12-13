@@ -28,7 +28,7 @@ sections:
           - Web Development & Design
           - Content Creation
           - Consultation
-          - Custom Services & Others
+          - Custom Solutions & Others
       - input_type: textarea
         name: message
         label: Message
