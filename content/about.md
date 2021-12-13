@@ -80,7 +80,7 @@ sections:
         content: |
           Here we offer:
 
-          *   Small Business Cybersecurity Strategy Consultation
+          *   Small Business Cybersecurity Strategic Consultation
 
           *   ICT Consultation
 
@@ -93,6 +93,8 @@ sections:
           *   Business Registration and Incorporation
 
           *   Website Development Consultation
+
+          *   Startup/Business Growth Strategic Consultation
     type: grid_section
   - type: cta_section
     section_id: cta
