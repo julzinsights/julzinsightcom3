@@ -100,6 +100,13 @@ sections:
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
 seo:
   title: About Us - Julz Insights
   description: 'Learn more about us, our story and our principles'
