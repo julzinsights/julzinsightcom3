@@ -81,7 +81,6 @@ sections:
 
           *   Web Development Consultation
       - title: Other Services
-        subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
