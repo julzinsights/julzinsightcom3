@@ -9,10 +9,9 @@ sections:
       bespoke I.T solutions.
     actions: []
     content: >
-      We provide web development services using the latest technologies such as
-      WordPress, Webflow, and Hugo. Book a free [consultation](/contact) now to
-      get started or learn more [about us](/about). We also offer IT
-      consultations.
+      We provide web development solutions and IT consultation. Book your free
+      [consultation](/contact) right now to get started or learn more [about
+      us](/about).
 seo:
   title: Julz Insights - Bespoke I.T Solutions
   description: >-
