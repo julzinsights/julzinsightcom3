@@ -59,6 +59,20 @@ sections:
         image_alt: content creation illustration
         actions: []
         image: images/undraw_content_re_33px.svg
+        content: |
+          Here we offer:
+
+          *   Article/Blog Writing
+
+          *   Proposal Creation
+
+          *   Copywriting
+
+          *   Email Campaigns
+
+          *   Social Media Management
+
+          *   Social Media and Basic Graphic Design
       - title: Consultation
         image_alt: consultation illustration
         actions: []
