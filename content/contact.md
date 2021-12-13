@@ -26,11 +26,9 @@ sections:
         default_value: Please select
         options:
           - Web Development & Design
-          - Graphic Design
           - Content Creation
-          - Web & Search Engine Optimization
           - Consultation
-          - Custom Services & Others
+          - Custom Solutions & Other
       - input_type: textarea
         name: message
         label: Message
