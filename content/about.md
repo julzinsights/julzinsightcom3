@@ -96,7 +96,7 @@ sections:
   - type: cta_section
     section_id: cta
     title: Let's Work Together!
-    content: "Say hello at\_<julzinsight@gmail.com>\_or tell us more about your project by getting started below.\n"
+    content: "Do you have a project? Say hello at\_<julzinsight@gmail.com>\_or tell us more about your project by getting started below.\n"
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
