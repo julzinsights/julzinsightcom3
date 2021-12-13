@@ -50,15 +50,15 @@ sections:
 
           *   WordPress Development
 
-          *   Hugo Web Development
+          *   Hugo Blog Development
 
           *   Shopify Store Development
 
-          *   Web Design using Webflow and/or Figma
+          *   Webflow Site Design
 
           *   Web and Search Engine Optimization
 
-          *   Miscellaneous Tweaks, Integrations, Convertions and Setup
+          *   Miscellaneous Tweaks and Integrations
         image: images/service-1.svg
         image_alt: web development illustration
       - title: Consultation
