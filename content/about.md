@@ -95,8 +95,6 @@ sections:
           *   Google Ads Integration
 
           *   Technical Writing
-
-          *   DNS and CDN Intergration
         actions: []
         image: images/service-2.svg
     type: grid_section
