@@ -27,7 +27,6 @@ sections:
         options:
           - Web Development & Design
           - Content Creation
-          - Web & Search Engine Optimization
           - Consultation
           - Custom Services & Others
       - input_type: textarea
