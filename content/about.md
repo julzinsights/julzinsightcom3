@@ -107,6 +107,14 @@ sections:
         icon: dribbble
         new_window: true
         no_follow: false
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    projects_number: 0
+    view_all_label: lorem-ipsum
+    view_all_url: '#'
+    type: portfolio_section
 seo:
   title: About Us - Julz Insights
   description: 'Learn more about us, our story and our principles'
