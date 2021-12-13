@@ -102,7 +102,7 @@ sections:
     bg_color: light
     actions:
       - label: Get Started Now!
-        url: /
+        url: /contact
         style: link
         icon: dribbble
         new_window: false
