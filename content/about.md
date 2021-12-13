@@ -5,7 +5,7 @@ sections:
   - type: content_section
     content: >
       We are a small tech company based in Nairobi, Kenya with a focus on
-      building impactful products and providing top-notch I.T services, hence
+      building impactful products and providing top-notch I.T solutions, hence
       ensuring the fulfillment of your mission, vision, and mandate.
 
 
@@ -13,11 +13,23 @@ sections:
       about on our contact page by telling us more about your project.
 
 
-      #### Mission
+      ##### Our Mission
 
 
-      Create innovative tech solutions for businesses, startups, and individuals
-      alike.
+      "To create innovative tech solutions for our clients."
+
+
+      ##### Our Vision
+
+
+      "To create, provide and invest in innovative tech solutions that propel
+      our clients forward."
+
+
+      ##### Our Mandate
+
+
+      "To help our clients make the shift from now to next."
 
 
       \---
