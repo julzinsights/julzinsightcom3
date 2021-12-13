@@ -80,7 +80,7 @@ sections:
           *   Business Registration and Incorporation
 
           *   Web Development Consultation
-      - title: lorem-ipsum
+      - title: Other Services
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
