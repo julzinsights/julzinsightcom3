@@ -4,22 +4,39 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      Welcome to **Julz Insights,** a small tech company based in Kenya that is
-      focused on developing, testing, implementing, and investing in innovative
-      tech solutions/products.
+      We are a small tech company based in Nairobi, Kenya with a focus on
+      building impactful products and providing bespoke I.T solutions, hence
+      ensuring the fulfillment of your mission, vision, and mandate.
 
 
-      We believe in you and as such offer comprehensive services that fit your
-      needs, ensuring you prosperity and smooth runnings without having to worry
-      about the technical side of things.
+      Aside from this, we also offer custom solutions which you can inquire
+      about on our contact page by telling us more about your project.
 
 
-      Aside from this we also offer custom solutions which you can inquire about
-      on our contact page by telling us more about your project.
+      ###### Our Mission
 
 
-      So if you'd like to learn more, request a quote, or book a free
-      consultation, [contact us](/contact).
+      "To create innovative tech solutions for our clients."
+
+
+      ###### Our Vision
+
+
+      "To create, provide and invest in innovative tech solutions that propel
+      our clients forward."
+
+
+      ###### Our Mandate
+
+
+      "To help our clients make the shift from now to next."
+
+
+      \---
+
+
+      Would you like to book a consultation? Then head over to our contact page
+      and [let's talk](/contact).
     image_alt: Our team in the meeting room
     section_id: story
   - section_id: services
@@ -31,37 +48,19 @@ sections:
         content: |
           Here we offer:
 
-          *   WordPress Development
+          *   WordPress Site Development
 
-          *   Hugo Web Development
+          *   Hugo Blog Development
 
           *   Shopify Store Development
 
-          *   Web Design using Webflow and/or Figma
+          *   Web Design with Webflow
 
           *   Web and Search Engine Optimization
 
-          *   Miscellaneous Tweaks, Integrations, Convertions and Setup
+          *   Miscellaneous Tweaks and Integrations
         image: images/service-1.svg
         image_alt: web development illustration
-      - title: Content Creation
-        image_alt: content creation illustration
-        actions: []
-        image: images/service-2.svg
-        content: |
-          Here we offer:
-
-          *   Article/Blog Writing
-
-          *   Proposal Creation
-
-          *   Copywriting
-
-          *   Email Campaigns
-
-          *   Social Media Management
-
-          *   Social Media and Basic Graphic Design
       - title: Consultation
         image_alt: consultation illustration
         actions: []
@@ -95,12 +94,9 @@ sections:
 
           *   Google Ads Integration
 
-          *   Google My Business and Crunchbase Setup
-
-          *   DNS and CDN Intergration
-
-          *   Comprehensive Web Performance Report
+          *   Technical Writing
         actions: []
+        image: images/service-2.svg
     type: grid_section
   - type: cta_section
     section_id: cta
