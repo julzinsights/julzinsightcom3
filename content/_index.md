@@ -8,8 +8,10 @@ sections:
       We are a tech company focused on building impactful products and providing
       bespoke I.T solutions.
     actions: []
-    content: |
-      Book a free [consultation](/contact) or learn more [about us](/about)
+    content: >
+      We provide web development, content creation, and IT consultation. Reach
+      out and book your free [consultation](/contact) right now to get started
+      or learn more [about us](/about).
 seo:
   title: Julz Insights - Bespoke I.T Solutions
   description: >-
