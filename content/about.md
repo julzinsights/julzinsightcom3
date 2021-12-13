@@ -113,7 +113,7 @@ sections:
     layout_style: mosaic
     projects_number: 4
     view_all_label: See more
-    view_all_url: '#'
+    view_all_url: /portfolio
     type: portfolio_section
 seo:
   title: About Us - Julz Insights
