@@ -47,12 +47,9 @@ sections:
           *   Web and Search Engine Optimization
 
 
-          *   Social Media Funnel Development
-
-
           *   Miscellaneous Tweaks, Integrations, and Setup such as Web
-          Analytics Setup, Chatbot Integration, Progressive Web App Conversion,
-          Google Ads Integration, and more
+          Analytics Setup, Social Media Funneling, Chatbot Integration,
+          Progressive Web App Conversion, Google Ads Integration, and more
         image: images/undraw_web_development_0l6v.svg
         image_alt: web development illustration
       - title: Content Creation
