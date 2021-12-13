@@ -83,6 +83,8 @@ sections:
       - title: Other Services
         image_alt: lorem-ipsum
         content: |
+          We also offer:
+
           *   Web Analytics Setup
 
           *   Social Media Landing Page Development
