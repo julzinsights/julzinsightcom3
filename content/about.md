@@ -4,17 +4,18 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      **Julz Insights** is a small tight-knit tech company focused on developing
-      and investing in innovative tech solutions/products for your betterment.
+      Welcome to **Julz Insights** is a small tech company based in Kenya that
+      is focused on developing, testing, and investing in innovative tech
+      solutions/products. 
 
 
-      We offer a wide array of comprehensive multidisciplinary services that fit
-      your needs, to ensure your company runs smoothly without having to worry
-      about the technical aspects.
+      We believe in you and as such offer comprehensive services that fit your
+      needs, ensuring your prosperity and smooth runnings without having to
+      worry about the technical side of things.
 
 
-      Aside from these we also offer custom services and solutions which you can
-      ask about on our contact page.
+      Aside from this we also offer custom services and solutions which you can
+      inquire about on our contact page by telling us more about your project.
 
 
       So if you'd like to learn more, request a quote, or book a free
