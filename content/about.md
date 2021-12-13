@@ -5,7 +5,7 @@ sections:
   - type: content_section
     content: >
       We are a small tech company based in Nairobi, Kenya with a focus on
-      building impactful products and providing top-notch I.T solutions, hence
+      building impactful products and providing bespoke I.T solutions, hence
       ensuring the fulfillment of your mission, vision, and mandate.
 
 
