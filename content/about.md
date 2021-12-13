@@ -4,18 +4,18 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      Welcome to **Julz Insights** is a small tech company based in Kenya that
-      is focused on developing, testing, and investing in innovative tech
-      solutions/products. 
+      Welcome to **Julz Insights,** a small tech company based in Kenya that is
+      focused on developing, testing, implementing, and investing in innovative
+      tech solutions/products.
 
 
       We believe in you and as such offer comprehensive services that fit your
-      needs, ensuring your prosperity and smooth runnings without having to
-      worry about the technical side of things.
+      needs, ensuring you prosperity and smooth runnings without having to worry
+      about the technical side of things.
 
 
-      Aside from this we also offer custom services and solutions which you can
-      inquire about on our contact page by telling us more about your project.
+      Aside from this we also offer custom solutions which you can inquire about
+      on our contact page by telling us more about your project.
 
 
       So if you'd like to learn more, request a quote, or book a free
@@ -41,17 +41,7 @@ sections:
 
           *   Web and Search Engine Optimization
 
-          *   Miscellaneous Tweaks, Integrations, and Setup such as
-
-            \- Web Analytics Setup
-
-            \- Social Media Funneling
-
-            \- Chatbot Integration
-
-            \-  Progressive Web App Conversion
-
-            \- Google Ads Integration, and more
+          *   Miscellaneous Tweaks, Integrations, Convertions and Setup
         image: images/service-1.svg
         image_alt: web development illustration
       - title: Content Creation
@@ -81,7 +71,7 @@ sections:
 
           *   Small Business Cybersecurity Consultation
 
-          *   IT Consultation
+          *   Strategic IT Consultation
 
           *   ICT Software & Equipment Supply
 
@@ -89,9 +79,28 @@ sections:
 
           *   Business Registration and Incorporation
 
-          *   Website Development Consultation
+          *   Web Development Consultation
+      - title: Other
+        image_alt: lorem-ipsum
+        content: |
+          We also offer:
 
-          *   Strategic Startup/Business Growth Consultation
+          *   Web Analytics Setup
+
+          *   Social Media Landing Page Development
+
+          *   Chatbot and Live Chat Integration
+
+          *   Progressive Web App Conversion
+
+          *   Google Ads Integration
+
+          *   Google My Business and Crunchbase Setup
+
+          *   DNS and CDN Intergration
+
+          *   Comprehensive Web Performance Report
+        actions: []
     type: grid_section
   - type: cta_section
     section_id: cta
