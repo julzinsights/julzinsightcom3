@@ -101,7 +101,7 @@ sections:
     image_alt: Illustration
     bg_color: light
     actions:
-      - label: lorem-ipsum
+      - label: Get Started Now!
         url: '#'
         style: link
         icon: dribbble
