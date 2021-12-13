@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a tech company focused on creating bespoke I.T products &
+      We are a tech company focused on creating and providing bespoke I.T
       solutions.
     actions: []
     content: |
