@@ -85,15 +85,19 @@ sections:
         content: |
           *   Web Analytics Setup
 
-          *   Social Media Funneling
+          *   Social Media Landing Page Development
 
-          *   Chatbot Integration
+          *   Chatbot and Live Chat Integration
 
           *   Progressive Web App Conversion
 
           *   Google Ads Integration
 
           *   Google My Business and Crunchbase Setup
+
+          *   DNS and CDN Intergration
+
+          *   Comprehensive Web Performance Report
         actions: []
     type: grid_section
   - type: cta_section
