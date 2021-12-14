@@ -4,32 +4,29 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      We are a small tech company based in Nairobi, Kenya with a strong focus on
-      building impactful products and providing bespoke I.T solutions, hence
-      ensuring the fulfillment of your mission, vision, and mandate.
+      We are a small tech company based in Kenya with a strong focus on building
+      impactful products and providing bespoke I.T solutions. 
 
 
-      Aside from this, we also offer custom solutions which you can inquire
+      Our areas of expertise include
+
+
+      1.  **Web Development** using technologies such as WordPress, Shopify,
+      Hugo, and Webflow
+
+
+      2.  **Technical Writing** which includes Articles, HowTos/Tutorials among
+      others
+
+
+      3.  **IT/Cybersecurity Consultation and Supply**
+
+
+      4.  **Graphic Design**
+
+
+      But we also create custom project-based solutions that you can inquire
       about on our contact page by telling us more about your project.
-
-
-      ###### Our Mission
-
-
-      "To create innovative tech solutions for our clients."
-
-
-      ###### Our Vision
-
-
-      "To create, provide and invest in innovative tech solutions that propel
-      our clients forward."
-
-
-      ###### Our Mandate
-
-
-      "To help our clients make the shift from now to next."
 
 
       \---
